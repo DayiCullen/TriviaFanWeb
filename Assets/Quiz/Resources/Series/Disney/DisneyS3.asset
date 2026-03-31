@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: DisneyS3
+  m_EditorClassIdentifier: 
+  categoryName: Serie Disney 3
+  questions:
+  - questionInfo: "\xBFCu\xE1l es la frase que dice Miley en Hannah Montana?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "\xBFC\xF3mo dices que dijiste?"
+    - "\xBFQu\xE9 dijiste?"
+    - "Qu\xE9eeeeeeeeeee?"
+    - No puede ser!!!!
+    correctAns: "\xBFC\xF3mo dices que dijiste?"
+  - questionInfo: "\xBFCu\xE1l es el apellido de esta familia?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8d782f575d3a0a14fa905efcd38bcc3f, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Duncan
+    - Rooney
+    - Watson
+    - Russo
+    correctAns: Duncan
+  - questionInfo: "\xBFDe cu\xE1l serie es esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: acampados.mp4
+    options:
+    - Acampados
+    - Jessie
+    - Kikiwaka
+    - Chippewa
+    correctAns: Acampados
+  - questionInfo: "\xBFQu\xE9 vende el pap\xE1 de Harley de Atrapada en el medio?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 68634f75110449f4eabda4c369cd7c05, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Bicicletas
+    - Instrumentos musicales
+    - Equipos para acampar y pescar
+    - "Comida r\xE1pida"
+    correctAns: Equipos para acampar y pescar
+  - questionInfo: "\xBFC\xF3mo se llama la mejor amiga de K.C en Agente K.C?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Marisa
+    - Melisa
+    - Sabrina
+    - Brisa
+    correctAns: Marisa
+  - questionInfo: "\xBFCu\xE1ntas temporadas tiene la serie Lizzie McGuire?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 2
+    - 3
+    - 4
+    - 5
+    correctAns: 2
+  - questionInfo: "\xBFDe qu\xE9 a\xF1o proviene la familia Diffy de Phil del futuro?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 45cba201bbfe0da46b7e42e644fdbc16, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 2121
+    - 2021
+    - 2321
+    - 2221
+    correctAns: 2121
+  - questionInfo: "\xBFEn d\xF3nde vive Holly  de Holly Hobbie?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Collinsville
+    - San Francisco
+    - Denver
+    - Kansas City
+    correctAns: Collinsville
+  - questionInfo: "\xBFC\xF3mo se llama la chica desaparecida de Secretos en Sulphur
+      Springs?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Savannah '
+    - Samantha
+    - Hannah
+    - Sabrina
+    correctAns: 'Savannah '
+  - questionInfo: "\xBFQu\xE9 instrumento toca Newt de Cory en la Casa Blanca?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Guitarra El\xE9ctrica"
+    - "Bater\xEDa"
+    - Bajo
+    - 'Violonchelo '
+    correctAns: "Guitarra El\xE9ctrica"

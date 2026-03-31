@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas18
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 18"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9e3bb991ab1d0534581c48e0b15d76b6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "\xA1Esto es guerra!"
+    - Buenos vecinos
+    - Vecinos invasores
+    - "Peque\xF1os invasores"
+    correctAns: "Peque\xF1os invasores"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6676a66c40eb2c142af0175859e897ec, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La roca
+    - Armageddon
+    - 'Con Air: Riesgo en el aire'
+    - "Momento cr\xEDtico"
+    correctAns: 'Con Air: Riesgo en el aire'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d33013f5d2688f14083b638cecfa9af5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La llamada
+    - "La noche del demonio: cap\xEDtulo 4"
+    - Un lugar en silencio
+    - La llave maestra
+    correctAns: La llave maestra
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b376e9f3c37416e4a9ddbf7dc80e76d9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'The Avengers: los Vengadores'
+    - Iron Man 2
+    - 'Iron Man: el hombre de hierro'
+    - Iron Man 3
+    correctAns: 'Iron Man: el hombre de hierro'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 59cbfb88c6e9edc4e8ca17b1bc2b05cf, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Cleopatra
+    - Alejandro Magno
+    - "Leg\xEDtimo rey"
+    - Troya
+    correctAns: Alejandro Magno
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0e57a524a494c624a841ea9844b394ad, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "S\xF3lo amigos"
+    - Muy parecido al amor
+    - Amigos con beneficios
+    - "Se\xF1ales de amor"
+    correctAns: "S\xF3lo amigos"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 01ab1142212e2c246851b8430a4ec8e0, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Eliminar amigo
+    - Buscando...
+    - Friend Request
+    - La horca
+    correctAns: Eliminar amigo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 129608cbc9821d548888cdada788123f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El misterio de Soho
+    - Polar
+    - Sin tiempo para morir
+    - "C\xF3ctel Explosivo"
+    correctAns: El misterio de Soho
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6265cdfbf049c0d4e9223d8ea45ee318, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Celular
+    - "Cuando un extra\xF1o llama"
+    - La hora de tu muerte
+    - "\xA1No vayas a colgar!"
+    correctAns: "Cuando un extra\xF1o llama"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2efb60d9488e583478cc1dd38bc9bfc5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Fiebre de s\xE1bado por la noche"
+    - Grease
+    - Hairspray
+    - 54
+    correctAns: "Fiebre de s\xE1bado por la noche"

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas9
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 9"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 572af23ab7abeae4ebf83d242a2dd192, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Soltero en casa
+    - Abajo el amor
+    - 10 cosas que odio de ti
+    - "C\xF3mo perder a un hombre en 10 d\xEDas"
+    correctAns: "C\xF3mo perder a un hombre en 10 d\xEDas"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e0d3ec297b92fee4a85fa11e74f4bb1e, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La bruja del bosque
+    - "La Caba\xF1a Sangrienta"
+    - "La caba\xF1a del diablo"
+    - "La caba\xF1a del terror"
+    correctAns: "La caba\xF1a del terror"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a1dbc0dd247ea7c45925bdc426968df5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Una noche en el museo 3: El secreto de la tumba'
+    - Una noche en el museo
+    - Una noche en el museo 2
+    - 'Night at the Museum: Kahmunrah Rises Again'
+    correctAns: Una noche en el museo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f5029e39f05b98a45b24fe48f644e9e5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Beetlejuice, el s\xFAper fantasma"
+    - Wolverine
+    - Pesadilla en la calle Elm
+    - El joven manos de tijera
+    correctAns: Pesadilla en la calle Elm
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 001d518054dc87a449754a631afef5af, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Amor de locos
+    - Un amor para recordar
+    - Nuevamente Amor
+    - 'P.D: Te amo'
+    correctAns: Un amor para recordar
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ef5f8b8ee2b09c54ca400889f4906475, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La llamada
+    - El grito
+    - El ojo del mal
+    - El ojo
+    correctAns: El grito
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4e211471d65d4134ab32d519ad3915f3, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Yo, \xE9l y Raquel "
+    - "Yo soy Sim\xF3n"
+    - La Duff
+    - Las ventajas de ser invisible
+    correctAns: "Yo, \xE9l y Raquel "
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7079cd974a73a0742b8c954e1139d059, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Negra navidad
+    - "Freaky: este cuerpo est\xE1 para matar"
+    - "Feliz d\xEDa de tu muerte"
+    - Verdad o reto
+    correctAns: Negra navidad
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4d9654722aacdba41abf54091a4fe747, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "La decisi\xF3n m\xE1s dif\xEDcil"
+    - Bajo la misma estrella
+    - Ahora y siempre
+    - "Al otro lado del coraz\xF3n"
+    correctAns: "La decisi\xF3n m\xE1s dif\xEDcil"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e087679b28d5c52439f565b67f96dcfc, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Spy: una esp\xEDa despistada"
+    - Chicas armadas y peligrosas
+    - Dos locas en fuga
+    - " \xBFY d\xF3nde est\xE1n las rubias?"
+    correctAns: Dos locas en fuga

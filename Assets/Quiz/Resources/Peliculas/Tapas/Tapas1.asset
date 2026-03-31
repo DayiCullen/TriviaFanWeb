@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas1
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 1"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 826c1226c68b73c4c9eb2c60071c3eee, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Viaje al centro de la Tierra
+    - 'Jumanji : En la selva'
+    - Zathura
+    - "Percy Jackson: El ladr\xF3n del rayo"
+    correctAns: Viaje al centro de la Tierra
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b391a0bab63291d4eb604ff45a1bda01, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Ligeramente embaraza
+    - La joven vida de Juno
+    - "Whiplash: m\xFAsica y obsesi\xF3n"
+    - "Ni en tu casa ni en la m\xEDa"
+    correctAns: La joven vida de Juno
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c5a82bed2e6e480448978928f604210a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Harriet
+    - Silencio
+    - El efecto mariposa
+    - Antebellum
+    correctAns: Antebellum
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 10c1bdce9164fcf4d9aea7f85ce2cda2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Despedida de soltera
+    - Hasta que el cuerpo aguante
+    - Guerra de novias
+    - Damas en guerra
+    correctAns: Hasta que el cuerpo aguante
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b79abeb616692b74488c82abf27c07b6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Jurassic Park
+    - "Jurassic World: el reino ca\xEDdo"
+    - "Jurassic World: Mundo jur\xE1sico"
+    - 'Jurassic World: Dominio'
+    correctAns: 'Jurassic World: Dominio'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d606ab5fc1567cd43bba26f2d2e6a5bb, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "La noche del demonio: cap\xEDtulo 2"
+    - "El ni\xF1o"
+    - "La dama de negro 2: El \xE1ngel de la muerte"
+    - "Doctor Sue\xF1o"
+    correctAns: "El ni\xF1o"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 60702600bf4679a4e996a67a633486aa, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Percy Jackson el ladr\xF3n del rayo"
+    - Los dioses del olimpo
+    - La sirenita
+    - Aquaman
+    correctAns: Aquaman
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9155651910347d445b7565f74a42b706, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Letra y M\xFAsica"
+    - Linterna Verde
+    - Siempre a tu Lado
+    - "El Irland\xE9s"
+    correctAns: Siempre a tu Lado
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4272b99393101184fb49462d44a66e60, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "B\xFAsqueda implacable"
+    - Duro de Matar
+    - "Par\xEDs en la Mira"
+    - El Transportador
+    correctAns: El Transportador
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: fb85b670b05142a4bbb5bba29b53ca20, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "T\xFA Me Entiendes"
+    - Si No Despierto
+    - Si Decido Quedarme
+    - "Cada D\xEDa"
+    correctAns: Si No Despierto

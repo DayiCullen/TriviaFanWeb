@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Actor10
+  m_EditorClassIdentifier: 
+  categoryName: Actores 10
+  questions:
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 031b7465c707fa24c8b4caf2ece5e1aa, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Ansel Elgort
+    - Nick Robinson
+    - Ty Simpkins
+    - Anthony Turpel
+    correctAns: Ansel Elgort
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ced6a8e3129b2b742b276e992ff227d0, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Colin Farrell
+    - Colin Hanks
+    - Colin Firth
+    - Colin Jost
+    correctAns: Colin Firth
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2092c0eb61d45214d85e43b9609bf5f5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tom Welling
+    - Justin Hartley
+    - Theo James
+    - Chris Evans
+    correctAns: Justin Hartley
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1a2c4e0b03b0dc14e9b91171eec756ba, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - George Clooney
+    - Harrison Ford
+    - Clint Eastwood
+    - Richard Gere
+    correctAns: Harrison Ford
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1ec6efedabc572c4a9fc8858e1f1353e, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tom Holland
+    - Harry Styles
+    - Jesse Eisenberg
+    - Rudy Pankow
+    correctAns: Tom Holland
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: dacacba0cb7ea554ba676b090ee08754, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Zendaya
+    - Jenna Ortega
+    - Olivia Rodrigo
+    - Sofia Wylie
+    correctAns: Zendaya
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5c92ce9215409944db4efd8ede18bf72, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Ren\xE9e Zellweger"
+    - Reese Witherspoon
+    - Jennifer Coolidge
+    - Naomi Watts
+    correctAns: "Ren\xE9e Zellweger"
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9eb2bab18d9fb5144a081592ee657990, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Madison Iseman
+    - Sydney Sweeney
+    - Jessica Rothe
+    - Teresa Palmer
+    correctAns: Madison Iseman
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3ff48da4dda30774d8594a9603d9d169, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Karen Gillan
+    - Caitlin Blackwood
+    - Shailene Woodley
+    - Kirsten Dunst
+    correctAns: Karen Gillan
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9ade61b3fa28a354a9355fa315858e7c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Amanda Seyfried
+    - Samara Weaving
+    - Grace Van Patten
+    - Margot Robbie
+    correctAns: Amanda Seyfried

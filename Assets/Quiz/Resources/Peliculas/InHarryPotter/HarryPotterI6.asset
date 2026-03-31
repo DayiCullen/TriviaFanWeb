@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: HarryPotterI6
+  m_EditorClassIdentifier: 
+  categoryName: Harry Potter  6
+  questions:
+  - questionInfo: Which of these characters is NOT part of Dumbledore's Army?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ginny
+    - Dean
+    - Jasper
+    - Katie
+    correctAns: Jasper
+  - questionInfo: What are the colors of Ravenclaw?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Silver and Blue '
+    - Green and yellow
+    - Light blue and red
+    - Violet and blue
+    correctAns: 'Silver and Blue '
+  - questionInfo: What is the spell that is used to levitate things?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Wingardium Leviosa
+    - Lumos
+    - Expelliarmus
+    - Wings Levioso
+    correctAns: Wingardium Leviosa
+  - questionInfo: Which dragon did Fleur Delacour get in the Triwizard Tournament?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Common Welsh Green
+    - Swedish Short-Snout
+    - 'Chinese Fireball '
+    - 'Hungarian Horntail '
+    correctAns: Common Welsh Green
+  - questionInfo: What object was Horace turned into when Dumbledore and Harry enter
+      his house?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Armchair
+    - Lamp
+    - Cupboard
+    - Grandfather clock
+    correctAns: Armchair
+  - questionInfo: Who had a snake boggart?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Parvati '
+    - Ron
+    - Dean
+    - Hannah
+    correctAns: 'Parvati '
+  - questionInfo: ' Which movie does this scene belong to?'
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: draco.mp4
+    options:
+    - ' Harry Potter and the Half-Blood Prince'
+    - Harry Potter and the Deathly Hallows - Part 1
+    - Harry Potter and the Deathly Hallows - Part 2
+    - Harry Potter and the Order of the Phoenix
+    correctAns: ' Harry Potter and the Half-Blood Prince'
+  - questionInfo: 'Fleur Delacour''s sister''s name:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 661f5f9dff05b644b9532220ff7e8bdb, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Gadabrielle
+    - 'Gabrielle '
+    - Giselle
+    - Gabriella
+    correctAns: 'Gabrielle '
+  - questionInfo: 'Who said this phrase?  You''re not a bad person. You''re a very
+      good person, who bad things have happened to. '
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Sirius
+    - Dumbledore
+    - Hermione
+    - Snape
+    correctAns: Sirius
+  - questionInfo: In which movie was this phrase said? I'll be in my bedroom, making
+      no noise and pretending that I don't exist.
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Harry Potter and the Sorcerer's Stone
+    - Harry Potter and the Chamber of Secrets
+    - Harry Potter and the Prisoner of Azkaban
+    - Harry Potter and the Order of the Phoenix
+    correctAns: Harry Potter and the Chamber of Secrets

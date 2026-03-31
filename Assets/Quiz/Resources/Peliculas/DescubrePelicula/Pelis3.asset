@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Pelis3
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDculas 3"
+  questions:
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 277377cc741b4b14ebb87f58e8ce9faa, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ajuste de cuentas
+    - Rocky
+    - El gran golpe
+    - "Redenci\xF3n"
+    correctAns: Ajuste de cuentas
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: elaprendizdelbrujo.mp4
+    options:
+    - Excalibur
+    - El mundo del mago
+    - Nacido para ser Rey
+    - El aprendiz de brujo
+    correctAns: El aprendiz de brujo
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3779dc6eacd515747b97b7fb416e345e, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - The Farewell
+    - Locamente millonarios
+    - "Loco y est\xFApido amor"
+    - Todo en todas partes al mismo tiempo
+    correctAns: Locamente millonarios
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 35b72c38c5270db4cbb827886b133a09, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Los juegos del hambre
+    - Divergente
+    - El juego del miedo
+    - Correr o morir
+    correctAns: Los juegos del hambre
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2d05ed05a9ee5e84497e408d7937b209, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "La monta\xF1a embrujada"
+    - Un viaje en el tiempo
+    - "Miss Peregrine y los ni\xF1os peculiares "
+    - Mentes poderosas
+    correctAns: Un viaje en el tiempo
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 927224be6a5db87409848164791a3972, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - El golpe
+    - "Camino a la perdici\xF3n "
+    - Dos hombres y un destino
+    - "Esc\xE1ndalo americano"
+    correctAns: El golpe
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: Migranbodagriega.mp4
+    options:
+    - La mejor de mis bodas
+    - Mi gran boda griega
+    - La boda de mi mejor amigo
+    - Mi hija no se quiere casar
+    correctAns: Mi gran boda griega
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: bdd633a2673b4714588a90b8e832441b, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Alma salvaje
+    - Lejos de ella
+    - Siempre Alice
+    - "La separaci\xF3n"
+    correctAns: Siempre Alice
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ac777af3ab040394b902b2c98d81d93d, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - El baile
+    - Hairspray
+    - Bailando sin parar
+    - Vaselina
+    correctAns: Hairspray
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 062f2e61899ff6b46b2ff6d37cf619fb, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Un viernes de locos
+    - La nueva cenicienta
+    - Si fueras yo
+    - 'Max Winslow '
+    correctAns: Un viernes de locos

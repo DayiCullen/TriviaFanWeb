@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Animadas8
+  m_EditorClassIdentifier: 
+  categoryName: Animadas 8
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c5c82f55c0737144e8aa3b7ffa72754b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Ginger y Rocky '
+    - Ginger y el plan de fuga
+    - Pollitos en fuga
+    - Pollitos al ataque
+    correctAns: Pollitos en fuga
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6f048951f4b970a4e92bb828a99dd664, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Maggie y el ladr\xF3n de ganado"
+    - En busca de Alameda Slim
+    - Vacas vaqueras
+    - "Maggie y el rancho para\xEDso"
+    correctAns: Vacas vaqueras
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 986e145897a81dc469afe8d0b058f535, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "La m\xE1quina del tiempo"
+    - 'Lewis y Wilbur '
+    - La familia del futuro
+    - 'La familia Robinsons '
+    correctAns: La familia del futuro
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7929d6a49937c9342bc27dca69fb780a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La casa que asusta
+    - ' D.J y la casa con vida'
+    - 'Monster House: La casa de los sustos'
+    - La casa viviente
+    correctAns: 'Monster House: La casa de los sustos'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 096587dec54a4e445b07cb8428187468, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Victor Van Dort
+    - "El cad\xE1ver de la novia"
+    - La tierra de los vivos
+    - "El extra\xF1o mundo de Jack"
+    correctAns: "El cad\xE1ver de la novia"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 662a78224566fad48986ebdeeb1678e8, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Marte necesita mam\xE1s"
+    - Milo y los extraterrestres
+    - Milo en busca de su madre
+    - Milo y el planeta Marte
+    correctAns: "Marte necesita mam\xE1s"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d055650e3fa468f40a23d5f5ce97dd40, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Vecinos Invasores
+    - "Peque\xF1os invasores"
+    - Vecinos al ataque
+    - La vida secreta de tus mascotas
+    correctAns: Vecinos Invasores
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6a411ebf2b61fb24f84d9cc38993e3d1, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Milo en busca de Atlantis
+    - "En busca de Atl\xE1ntida"
+    - 'Atlantis: el imperio perdido'
+    - Buscando Atlantis
+    correctAns: 'Atlantis: el imperio perdido'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c1b9d517a804175408a96f55fef608e7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Operaci\xF3n escape"
+    - Planeta 51
+    - Unidos
+    - "Operaci\xF3n rescate"
+    correctAns: "Operaci\xF3n escape"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9308d173d6171d34b8c63a550e8d1e4c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Un villano de otro mundo
+    - Minions
+    - Mi villano favorito
+    - Megamente
+    correctAns: Mi villano favorito

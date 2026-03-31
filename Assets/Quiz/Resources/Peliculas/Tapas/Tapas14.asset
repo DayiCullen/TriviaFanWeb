@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas14
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 14"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 03fb1ed628ed6e64cb4be8a764ac3990, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'El abogado del diablo '
+    - "La reuni\xF3n del diablo"
+    - "Pose\xEDdos "
+    - Down
+    correctAns: "La reuni\xF3n del diablo"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6ff37382274f11a47837420a221b7086, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Diario de una chica adolescente
+    - El esplendoroso presente
+    - "Se dice de m\xED"
+    - Mi vida a los diecisiete
+    correctAns: "Se dice de m\xED"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5a258a8e97317e34eba27c05e12e0b3b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Retreat (Aislados)
+    - Tierra de vampiros
+    - Portadores
+    - Soy leyenda
+    correctAns: Soy leyenda
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 42c08b2eebe2990428fc34bb2f341e39, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - " La noche del demonio: cap\xEDtulo 4"
+    - 'La noche del demonio: La puerta roja'
+    - La noche del demonio
+    - "La noche del demonio: cap\xEDtulo 2"
+    correctAns: La noche del demonio
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 388a4ff78e53b944888c4cdeca95bcb2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Viaje 2: la isla misteriosa'
+    - 'Jumanji: En la selva'
+    - 'Jumanji: el siguiente nivel'
+    - Jumanji
+    correctAns: 'Jumanji: el siguiente nivel'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 34e99a95b053e21409a46e19178ec5da, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Una pareja casi perfecta
+    - La boda de mi mejor amigo
+    - Mujer Bonita
+    - Erin Brockovich, una mujer audaz
+    correctAns: Erin Brockovich, una mujer audaz
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4e590273aeae3524d83cc8dd0718684a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Muerte muerte muerte
+    - Sombras tenebrosas
+    - "Invitaci\xF3n al infierno"
+    - La cumbre escarlata
+    correctAns: "Invitaci\xF3n al infierno"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a3a9841272d5d274195c035812124580, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Entrega macabra
+    - Boda sangrienta
+    - "Arr\xE1strame al infierno"
+    - Siniestro
+    correctAns: Boda sangrienta
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4e8e4410b3d25e34fa6066106c9ba9cf, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Posdata: te amo'
+    - 'Brooklyn: un nuevo hogar'
+    - Nuevamente Amor
+    - "Recu\xE9rdame"
+    correctAns: 'Posdata: te amo'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 60f7a98b65647b74b9e9b67aedae749d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Crank 2: Alto voltaje '
+    - "El mec\xE1nico"
+    - Jugada salvaje
+    - Parker
+    correctAns: Jugada salvaje

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: HarryPotter4
+  m_EditorClassIdentifier: 
+  categoryName: Harry Potter 4
+  questions:
+  - questionInfo: "\xBFCu\xE1l de estos NO es un hechizo imperdonable?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Avada Kedavra
+    - Crucio
+    - Imperio
+    - Reducto
+    correctAns: Reducto
+  - questionInfo: "\xBFQu\xE9 hechizo est\xE1 haciendo Minerva en esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: hechizominerva.mp4
+    options:
+    - Piertotum locomotor
+    - Wingardium leviosa
+    - Levitaserum incantatum
+    - Movus Protegum
+    correctAns: Piertotum locomotor
+  - questionInfo: "\xBFCu\xE1ntos hijos tienen los Weasley?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 7
+    - 6
+    - 8
+    - 9
+    correctAns: 7
+  - questionInfo: "\xBFCu\xE1ntos puntos obtuvo Slytherin en Harry Potter y la piedra
+      filosofal?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 472
+    - 398
+    - 458
+    - 496
+    correctAns: 472
+  - questionInfo: "\xBFQui\xE9n es el pr\xEDncipe mestizo?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Severus Snape
+    - Sirius Black
+    - James Potter
+    - Peter Pettigrew
+    correctAns: Severus Snape
+  - questionInfo: "\xBFCu\xE1l es el hechizo que te permite abrir puertas?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Alohomora
+    - Abrakadabra
+    - Altomora
+    - Aletehora
+    correctAns: Alohomora
+  - questionInfo: "\xBFQu\xE9 criaturas m\xE1gicas son estas?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 45e331033da856544916b1f8d4dd18be, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Centauros
+    - Minotauros
+    - Escorpiones
+    - Tritones
+    correctAns: Centauros
+  - questionInfo: 'Apellido de este personaje: '
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6131c90a0d5c7524cb22edd23d320cc7, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Brown
+    - Crown
+    - Laurent
+    - Benett
+    correctAns: Brown
+  - questionInfo: "\xBFDe qui\xE9n es esta varita?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 99bfa01b47c3511449af595f652fe866, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Dolores
+    - Ginny
+    - Minerva
+    - 'Lavender '
+    correctAns: Dolores
+  - questionInfo: "\xBFQu\xE9 lugar ocup\xF3 Hermione en el ajedrez m\xE1gico?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d19494279799cae47889bc90b275677b, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Alfil
+    - Torre
+    - Caballo
+    - Reina
+    correctAns: Torre

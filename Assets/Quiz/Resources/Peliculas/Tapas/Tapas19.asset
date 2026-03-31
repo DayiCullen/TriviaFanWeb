@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas19
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 19"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c56f2575514735d409aa97ca561be766, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Percy Jackson y el ladr\xF3n del rayo"
+    - Aquaman
+    - Percy Jackson y el mar de los monstruos
+    - Aquaman 2
+    correctAns: "Percy Jackson y el ladr\xF3n del rayo"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 35426d2e24673cf4383898c5a320da23, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Black Panther: Wakanda Forever'
+    - Pantera Negra
+    - 'Thor: Amor y trueno'
+    - Doctor Strange en el Multiverso de la Locura
+    correctAns: Pantera Negra
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ee7bb0f2f9fe65f49b82209bc6bc8a32, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Pesadilla en el infierno (Ghostland)
+    - La casa oscura
+    - Presencia siniestra
+    - "La hu\xE9rfana"
+    correctAns: Pesadilla en el infierno (Ghostland)
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 31aebaf35c378774c8def4afcf32389f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Un lugar llamado Notting Hill
+    - Cuatro bodas y un funeral
+    - Mujer bonita
+    - La boda de mi mejor amigo
+    correctAns: Un lugar llamado Notting Hill
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 117feda19d607cd4697ba5a597dd1a83, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "El c\xEDrculo"
+    - "Presencias extra\xF1as"
+    - La llamada
+    - "La maldici\xF3n"
+    correctAns: La llamada
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 24d7edba58eacf84fb52adfd1a83b2b1, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El gran truco
+    - Nada es lo que parece
+    - El ilusionista
+    - Ahora son 13
+    correctAns: Nada es lo que parece
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c6a9fe1a2fd812a4b9d471e95dac5579, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La propuesta
+    - "Ni en tu casa ni en la m\xEDa"
+    - Loca por las compras
+    - Educando a Helen
+    correctAns: Loca por las compras
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5c8c97a0ba21bcc4a8f92ed8447975c8, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Programa de protecci\xF3n para princesas"
+    - El diario de la princesa
+    - Princesa por accidente
+    - La princesa
+    correctAns: "Programa de protecci\xF3n para princesas"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6aeac5bda3ca27746b910f5ee31898bf, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El aprendiz de brujo
+    - Desencantada
+    - Abracadabra 2
+    - Encantada
+    correctAns: El aprendiz de brujo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a6cfacfe385abc548b65798ab1c5fe16, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "D\xFAplex"
+    - "M\xE1s barato por docena"
+    - "\xBFSabes qui\xE9n viene? "
+    - Una casa de locos
+    correctAns: "D\xFAplex"

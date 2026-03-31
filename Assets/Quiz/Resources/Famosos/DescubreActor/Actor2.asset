@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Actor2
+  m_EditorClassIdentifier: 
+  categoryName: Actores 2
+  questions:
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 58c0829ef98904144b08a15cb1af74dc, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Liam Neeson
+    - Ralph Fiennes
+    - Arnold Vosloo
+    - Hugh Grant
+    correctAns: Liam Neeson
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0a34dc2a1056ced47a71bd4f5649c531, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Will Poulter
+    - Thomas Brodie-Sangster
+    - Freddie Highmore
+    - Max Thieriot
+    correctAns: Thomas Brodie-Sangster
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ad3321603034e2c469478e010176d4ee, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Ansel Elgort
+    - Logan Lerman
+    - Nick Robinson
+    - Dylan O'Brien
+    correctAns: Nick Robinson
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 38da994b34102a4419b61deff8132e68, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Steve Austin
+    - Dwayne Johnson
+    - Jason Statham
+    - Vin Diesel
+    correctAns: Dwayne Johnson
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 480ae76533a55e1429205cfe4806161a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Dacre Montgomery
+    - Zac Efron
+    - Drew Seeley
+    - Austin Butler
+    correctAns: Zac Efron
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7ff5a7cfe53e81e49898707a0da41de6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Charlize Theron
+    - Elizabeth Banks
+    - Chelsea Handler
+    - Scarlett Johansson
+    correctAns: Elizabeth Banks
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6d68a535931cffa4393bf02d4a5314f7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Kiernan Shipka
+    - Emma Watson
+    - Madison Iseman
+    - Mckenna Grace
+    correctAns: Kiernan Shipka
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: bc7638c9622e62f48b0b11f5e33bc68d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Teri Hatcher
+    - Eva Longoria
+    - "Roselyn S\xE1nchez "
+    - Sandra Bullock
+    correctAns: Eva Longoria
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: dada9c1c0f3f9f440837961b4b09d58f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tessa Thompson
+    - Thandie Newton
+    - Jada Pinkett Smith
+    - "Zoe Salda\xF1a"
+    correctAns: "Zoe Salda\xF1a"
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 15c96e202a0233c48b510abb6eac1eb3, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Sienna Miller
+    - Kelly Ripa
+    - Faith Ford
+    - Amy Robach
+    correctAns: Sienna Miller

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Animadas10
+  m_EditorClassIdentifier: 
+  categoryName: Animadas 10
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c4cff236ff0a8d94cbc0459408ebb062, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'UglyDolls: extraordinariamente feos'
+    - Moxy y sus amigos
+    - 'Uglyville: el mundo de los juguetes'
+    - El gran mundo
+    correctAns: 'UglyDolls: extraordinariamente feos'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 432dac47f41f14448a3ea5be6cea2197, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El destino de Odette
+    - La princesa encantada
+    - Odette y Derek
+    - La princesa Odette
+    correctAns: La princesa encantada
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2d9b331ae6093e44d96820bf73215c9b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Pocahontas en busca de su destino
+    - Pocahontas y John
+    - Pocahontas
+    - El nuevo mundo
+    correctAns: Pocahontas
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ee4c93d05be1a984a8bf1aeba37f71ed, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Descubriendo El Dorado
+    - El camino hacia El Dorado
+    - El Dorado
+    - Las aventuras de Miguel y Tulio
+    correctAns: El camino hacia El Dorado
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 529b75a1fa5d50e4ea7e042efcf2b41b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La bella durmiente
+    - "Mal\xE9fica"
+    - "La venganza de Mal\xE9fica"
+    - La princesa Aurora
+    correctAns: La bella durmiente
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 74859521525595b45a1c4211bd275358, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La historia de Quasimodo
+    - El jorobado de Notre Dame
+    - "El jorobado de Par\xEDs"
+    - El jorabado Quasimodo
+    correctAns: El jorobado de Notre Dame
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 156a401272e3a374785557bb5fc6841a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La vida de Mowgli
+    - Mowgli
+    - El libro de la selva
+    - Mowgli y la vida en la selva
+    correctAns: El libro de la selva
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 33cf2d9e1a5c8b643a54a4702474698a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Surfeando alto
+    - "Los ping\xFCinos de Madagascar"
+    - Reyes de las olas
+    - Cody y las olas
+    correctAns: Reyes de las olas
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c8c8d7fd5c46940479a05d21453be7ed, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La familia Monster
+    - Una loca noche de Halloween
+    - Una familia peculiar
+    - Una familia muy normal
+    correctAns: La familia Monster
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2894efda87cf560419badf8993d422a4, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Los autos fant\xE1sticos"
+    - Cars
+    - Herbie a todo marcha
+    - Cars y sus amigos
+    correctAns: Cars

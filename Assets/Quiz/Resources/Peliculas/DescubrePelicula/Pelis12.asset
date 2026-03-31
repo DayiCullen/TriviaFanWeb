@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Pelis12
+  m_EditorClassIdentifier: 
+  categoryName: Peliculas 12
+  questions:
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4e04c2b2b965cdd4293912ffb9379ff2, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - LOL casi 18
+    - Chicas pesadas
+    - Amigas para siempre
+    - Un verano en pantalones
+    correctAns: Un verano en pantalones
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d93da1c9a4bdac74abb4c52108bec675, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Cuidado Hercules vigila
+    - Los Goonies
+    - Cuenta conmigo
+    - Un equipo muy especial
+    correctAns: Los Goonies
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 97ed55ba20997f8438e4080558461092, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Entrega letal
+    - "Un d\xEDa de furia"
+    - Un crimen perfecto
+    - El fugitivo
+    correctAns: Un crimen perfecto
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: baa7e4450adae274fbcb18a351c99953, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - El hundimiento
+    - "Solos en Berl\xEDn"
+    - El gran dictador
+    - Jojo Rabbit
+    correctAns: Jojo Rabbit
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 34e736b319ffdcf40b54a904fc99b7fc, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Cinta roja
+    - "Rendirse jam\xE1s"
+    - Rocky
+    - Karate Kid
+    correctAns: Karate Kid
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 914949d0c25a6be4aaa71aa04b9fcd4d, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - The duff
+    - El stand de los besos
+    - "A todos los chicos de los que me enamor\xE9"
+    - La cita perfecta
+    correctAns: "A todos los chicos de los que me enamor\xE9"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b520a9e62be2ce844a09e3eda0a784f7, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Burlesque
+    - Moulin Rouge!
+    - Ven a bailar conmigo
+    - Australia
+    correctAns: Moulin Rouge!
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7c9653e377181934b8e6e76b7f25b45a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - El efecto mariposa
+    - Amigos con derecho
+    - "Tu casa o en la m\xEDa"
+    - Locura de amor en las vegas
+    correctAns: El efecto mariposa
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: Situvieratreinta.mp4
+    options:
+    - Plan de chicas
+    - Si tuviera 30
+    - Pijama Party
+    - Un viernes de locos
+    correctAns: Si tuviera 30
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: hermosascriaturas.mp4
+    options:
+    - Hermosas Criaturas
+    - "Crep\xFAsculo"
+    - Los juegos del hambre
+    - Un cuento de invierno
+    correctAns: Hermosas Criaturas

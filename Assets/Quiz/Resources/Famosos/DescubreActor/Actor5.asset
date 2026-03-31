@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Actor5
+  m_EditorClassIdentifier: 
+  categoryName: Actores 5
+  questions:
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1e10505860ee0244ca63ebf8086cbeb7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Jesse Eisenberg
+    - Michael Cera
+    - Jon Heder
+    - Christopher Mintz-Plasse
+    correctAns: Jesse Eisenberg
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 273cdd2315de6454fb692325bb2cd66d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Chris Noth
+    - Paul Reubens
+    - Alan Cumming
+    - Jamie Kennedy
+    correctAns: Alan Cumming
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f66487df9e94d0a4e954cbfe1b483f27, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - John Mulaney
+    - Grant Gustin
+    - Ezra Miller
+    - Tom Cavanagh
+    correctAns: John Mulaney
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7ec852f7a3ba3b64f8d8c52c057f3405, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Dax Shepard
+    - Neil Flynn
+    - Zach Braff
+    - Will Arnett
+    correctAns: Zach Braff
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c67b33efee553274fa5356b831091ce3, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Oliver Hudson
+    - Jeff Bridges
+    - Kurt Russell
+    - Jeff Daniels
+    correctAns: Jeff Bridges
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ec5b40f4688225c4c90807eb373db75a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Evan Rachel Wood
+    - Marin Hinkle
+    - Rachel Brosnahan
+    - Kate Mara
+    correctAns: Rachel Brosnahan
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: aea34c0a900406f499fd85cab2e7525c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Calista Flockhart
+    - Julianne Moore
+    - Jodie Foster
+    - Cybill Shepherd
+    correctAns: Jodie Foster
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b5dd94bd73ca02944850767811e4ba19, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Anne Archer
+    - Betty White
+    - Cloris Leachman
+    - Glenn Close
+    correctAns: Glenn Close
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 06fd4cf4cb7143943ac207bb309bc098, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Regina King
+    - Regina Hall
+    - Nia Long
+    - Monique Coleman
+    correctAns: Regina King
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 302d1f82a38a4de49bd2818e2b4f4bb9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Chrissy Metz
+    - Hannah Zeile
+    - ' Melissa McCarthy'
+    - Adele
+    correctAns: Chrissy Metz

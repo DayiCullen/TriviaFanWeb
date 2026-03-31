@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Divergent3
+  m_EditorClassIdentifier: 
+  categoryName: Divergent 3
+  questions:
+  - questionInfo: What is the faction motto?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Faction before blood
+    - Blood before faction
+    - United factions make a better world
+    - To maintain balance each faction has to do its own thing
+    correctAns: Faction before blood
+  - questionInfo: Who gets stab  in the eye with a butter knife?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Edward
+    - Al
+    - Will
+    - Peter
+    correctAns: Edward
+  - questionInfo: Who is the amity leader?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Johanna
+    - Evelyn
+    - Hannah
+    - Anna
+    correctAns: Johanna
+  - questionInfo: Four's real name
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Tobias '
+    - Marcos
+    - Albert
+    - Sebastian
+    correctAns: 'Tobias '
+  - questionInfo: In the choosing ceremony,what is contained in the bowl of Abnegation?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Grey stone
+    - Water
+    - 'Soil '
+    - Sand
+    correctAns: Grey stone
+  - questionInfo: 'Complete the sentence: If you don''t fit into a category, _____________________.'
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - ' they can''t control you.'
+    - they will get rid of you.
+    - ' it means you are divergent.'
+    - it is bad for society.
+    correctAns: ' they can''t control you.'
+  - questionInfo: 'Actress name:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6ebf2972464139142a80cac9f532f96a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ashley Judd
+    - Maggie Q
+    - Naomi Watts
+    - Kate Winslet
+    correctAns: Ashley Judd
+  - questionInfo: 'Name of the character played by this actor:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d777be3e1c3e2a543bac72f06cc6cced, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Andrew '
+    - Marcus
+    - Edward
+    - Michael
+    correctAns: 'Andrew '
+  - questionInfo: What is happening in this scene?
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: divergente.mp4
+    options:
+    - ' Four was in a simulation and wanted to kill Tris'
+    - Tris was in her initiation test
+    - They were controlling Tris with a serum
+    - Tris entered erudite without permission
+    correctAns: ' Four was in a simulation and wanted to kill Tris'
+  - questionInfo: What color clothing do they wear in amity?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Red and yellow
+    - Blue
+    - White
+    - Purple
+    correctAns: Red and yellow

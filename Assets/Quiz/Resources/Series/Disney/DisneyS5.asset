@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: DisneyS5
+  m_EditorClassIdentifier: 
+  categoryName: Serie Disney 5
+  questions:
+  - questionInfo: "\xBFC\xF3mo se llama el hermano menor de Charlie en Buena suerte
+      Charlie?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Toby
+    - P.J
+    - Gabe
+    - Parker
+    correctAns: Toby
+  - questionInfo: "\xBFC\xF3mo se llama la novia vampiresa de Justin en Los hechiceros
+      de Waverly Place?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 71fd3514bc60d8841b949470109a716f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Julieta
+    - Samantha
+    - Elizabeth
+    - Jane
+    correctAns: Julieta
+  - questionInfo: "\xBFA qu\xE9 serie pertenece esta casa?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0f204821185f92940b7c4b81b798f043, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Stan, el perro bloguero
+    - Liv y Maddie
+    - " \xA1Buena suerte, Charlie!"
+    - Sydney como Max
+    correctAns: Stan, el perro bloguero
+  - questionInfo: 'Nombre de las gemelas Rooney:'
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Olivia y Madison
+    - 'Olivia y Madeline '
+    - Livia y Madison
+    - 'Livia y Madeline '
+    correctAns: Olivia y Madison
+  - questionInfo: "\xBFA qu\xE9 personaje pertenece esta habitaci\xF3n?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 53c29674f5ef6f34a8952aa530de115b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Alex
+    - Sonny
+    - MIley
+    - Sydney
+    correctAns: Alex
+  - questionInfo: "\xBFA qu\xE9 serie pertenece esta imagen?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 610f6d468a22ed3458182d55ae7cbb71, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Sydney como Max
+    - Yo no lo hice
+    - Programa de talentos
+    - Coop y Cami
+    correctAns: Sydney como Max
+  - questionInfo: "\xBFCu\xE1l es el apellido de esta familia?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 25da9acdce5c50541abb8c600929f9d9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Rooney
+    - Stewart
+    - Oken
+    - Martin
+    correctAns: Stewart
+  - questionInfo: "\xBFC\xF3mo se llama la caba\xF1a que lidera Lou en Acampados?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Marmotas
+    - Ardillas
+    - Puercoespines
+    - Erizos
+    correctAns: Marmotas
+  - questionInfo: "\xBFC\xF3mo se llama el hotel en donde viven Zack y Cody?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tipton
+    - London
+    - Fitzpatrick
+    - Dulce Hotel
+    correctAns: Tipton
+  - questionInfo: "\xBFCu\xE1ntas temporadas tiene la serie A todo Ritmo?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 3
+    - 4
+    - 5
+    - 2
+    correctAns: 3

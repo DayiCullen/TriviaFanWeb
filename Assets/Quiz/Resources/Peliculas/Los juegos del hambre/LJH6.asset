@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: LJH6
+  m_EditorClassIdentifier: 
+  categoryName: LJH 6
+  questions:
+  - questionInfo: "\xBFCon qui\xE9n se queda Katniss al final de la saga?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Peeta
+    - Gale
+    - Finnick
+    - Con nadie
+    correctAns: Peeta
+  - questionInfo: Prueba de Peeta en En Llamas
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Hace una pintura de Rue
+    - Demuestra su fuerza
+    - Demuestra su habilidad de camuflaje
+    - Hace unas trampas para animales
+    correctAns: Hace una pintura de Rue
+  - questionInfo: "\xBFCu\xE1l es el arma favorita de Finnick?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Tridente
+    - Cuchillos
+    - Arco y flecha
+    - Espada
+    correctAns: Tridente
+  - questionInfo: "\xBFC\xF3mo muere Prim?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Por unos mutos
+    - Por una bomba
+    - La mata Snow dandole veneno
+    - La mata Peeta
+    correctAns: Por una bomba
+  - questionInfo: "\xBFA qu\xE9 distrito pertenec\xEDa Beete?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 3
+    - 8
+    - 5
+    - 6
+    correctAns: 3
+  - questionInfo: "\xBFCu\xE1les distritos son considerados profesionales?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 1 y 2
+    - 1,2 y 3
+    - 1, 2, 3 y 4
+    - 1, 3 y 5
+    correctAns: 1 y 2
+  - questionInfo: "Complet\xE1 la frase: Recuerda, estamos perdidamente enamorados,
+      as\xED que est\xE1 bien que me beses ______________."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "cada vez que as\xED lo sientas."
+    - cada vez que lo desees
+    - cada vez que quieras
+    - cuando quieras
+    correctAns: "cada vez que as\xED lo sientas."
+  - questionInfo: "\xBFQui\xE9n dijo esta frase? -Para que exista la traici\xF3n,
+      primero debe de existir la confianza"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Katniss
+    - 'Peeta '
+    - Gale
+    - Cinna
+    correctAns: Katniss
+  - questionInfo: "\xBFA cu\xE1l pel\xEDcula pertenece esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: enllamas2.mp4
+    options:
+    - En llamas
+    - Los juegos del hambre
+    - Sinsajo parte 1
+    - Sinsajo parte 2
+    correctAns: En llamas
+  - questionInfo: "N\xFAmero de juegos en los que compite Lucy Gray"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 10
+    - 1
+    - 20
+    - 15
+    correctAns: 10

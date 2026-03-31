@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: "Crep\xFAsculo8"
+  m_EditorClassIdentifier: 
+  categoryName: "Crep\xFAsculo 8"
+  questions:
+  - questionInfo: "\xBFQu\xE9 visi\xF3n tuvo Alice en este momento?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d26dcf60afeb1344eadf0e47fcfed52c, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Vio un estudio de danza
+    - Vio el hall de un hotel
+    - Vio la casa de Bella
+    - Vio el colegio
+    correctAns: Vio un estudio de danza
+  - questionInfo: "Cu\xE1l de estas NO es una habilidad compartida de los vampiros"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Velocidad
+    - Fuerza
+    - Leer mentes
+    - Sentidos agudizados
+    correctAns: Leer mentes
+  - questionInfo: "\xBFC\xF3mo son llamados los vampiros por los Quileute?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Los P\xE1lidos"
+    - "Los Fr\xEDos"
+    - Los Inhumanos
+    - Los Brillantes
+    correctAns: "Los Fr\xEDos"
+  - questionInfo: "\xBFQu\xE9 instrumento toca Edward?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Piano
+    - Flauta
+    - Guitarra
+    - "Viol\xEDn"
+    correctAns: Piano
+  - questionInfo: "\xBFQui\xE9nes integran la manada de Jacob en Amanecer?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Leah - Seth - Embry - Quil
+    - Leah - Seth - Paul - Embry
+    - Embry - Jared -  Leah - Collin
+    - Jared - Quil - Leah - Seth
+    correctAns: Leah - Seth - Embry - Quil
+  - questionInfo: 'Nombre de los siguientes personajes: '
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a2ae4e9d9647d914488b0d7d9c3b1ce4, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Zafrina - Senna
+    - Zafiro - Sienna
+    - Zafrina - Sienna
+    - Zafiro - Senna
+    correctAns: Zafrina - Senna
+  - questionInfo: "\xBFA cu\xE1l pel\xEDcula pertenece esta escena"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: Lunanueva2.mp4
+    options:
+    - "Crep\xFAsculo"
+    - Eclipse
+    - Luna Nueva
+    - Amanacer parte 1
+    correctAns: Luna Nueva
+  - questionInfo: "Complet\xE1 la frase: \u2014Tus ojos eran negros la \xFAltima
+      vez que te vi y ahora son como, marr\xF3n dorado.    \u2014Lo s\xE9. Es la,
+      mmm ________________.  "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - fluorescencia
+    - uso lentes de contactos
+    - cambian por el clima
+    - me tengo que ir
+    correctAns: fluorescencia
+  - questionInfo: "\xBFQu\xE9 est\xE1 diciendo Bella en este momento?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: amanecerfrase.mp4
+    options:
+    - Le pusiste a mi hija el apodo del monstruo del lago Ness.
+    - "Soy m\xE1s fuerte que t\xFA ahora"
+    - "Al\xE9jate de mi familia ya mismo"
+    - No sos quien para ponerle apodos a mi hija
+    correctAns: Le pusiste a mi hija el apodo del monstruo del lago Ness.
+  - questionInfo: "\xBFD\xF3nde viven Los Vulturi?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0fc9a549714baa3459ff685cf0377c0f, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Volterra, Italia
+    - Venecia, Italia
+    - "Valencia, Espa\xF1a"
+    - "Valladolid, Espa\xF1a"
+    correctAns: Volterra, Italia

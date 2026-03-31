@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Libro17
+  m_EditorClassIdentifier: 
+  categoryName: Libro 17
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 286d24c0c66a31049bb58c25558d4a49, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Prohibido
+    - Herido
+    - "Traici\xF3n"
+    - Defectuoso
+    correctAns: Prohibido
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5f92d8deeec1cf149b351b51c8ef7af3, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Winterkeep
+    - Graceling
+    - Bitterblue
+    - Fire
+    correctAns: Graceling
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 294213cc04c7c4643be4a5b3949e8cd2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Maybe Not
+    - Maybe Now
+    - Ugly Love
+    - Maybe Someday
+    correctAns: Maybe Someday
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0b5bad8aa9a3a88468f19faddbe665fc, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Especiales
+    - Delirio
+    - "Traici\xF3n"
+    - "Perfecci\xF3n"
+    correctAns: "Traici\xF3n"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8b673ee79d1a7b44f986defc4cef0af0, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "PD. Todav\xEDa te quiero"
+    - Para siempre Lara Jean
+    - "El verano en que me enamor\xE9"
+    - "A todos los chicos de los que me enamor\xE9"
+    correctAns: "A todos los chicos de los que me enamor\xE9"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0b772fbf59289bf42a61ba4b25503718, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Magic Bites
+    - Succubus Blues
+    - Touch the Dark
+    - Grave Witch
+    correctAns: Succubus Blues
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 93b24961a7801524bb9a3370f334c8e2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La espada de cristal
+    - La reina roja
+    - Corona cruel
+    - La jaula del rey
+    correctAns: La reina roja
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 56bddfa1b73a54148876ea4373733658, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Romper el c\xEDrculo"
+    - Ugly Love
+    - After
+    - Maravilloso desastre
+    correctAns: After
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7c462b54c97847c41a97941d8490f4d0, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Archienemigos
+    - Renegados
+    - Supernova
+    - Heartless
+    correctAns: Renegados
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5d71c8f9afca0784fa686628dde86699, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Fangirl
+    - Carry On
+    - Eleanor & Park
+    - Attachments
+    correctAns: Fangirl

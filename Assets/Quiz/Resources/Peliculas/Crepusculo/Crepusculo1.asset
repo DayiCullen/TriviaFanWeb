@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Crepusculo1
+  m_EditorClassIdentifier: 
+  categoryName: "Crep\xFAsculo 1"
+  questions:
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ae6433e5e031d3643b4db38a9f3231b3, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Esme
+    - Esmeralda
+    - Alice
+    - Renee
+    correctAns: Esme
+  - questionInfo: "Complet\xE1 la frase: Ag\xE1rrate fuerte, _____________."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "mono ara\xF1a"
+    - cabeza de calabaza
+    - oso trepador
+    - mi amor
+    correctAns: "mono ara\xF1a"
+  - questionInfo: "\xBFQu\xE9 poder tiene Alice Cullen?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ver el futuro
+    - Leer mentes
+    - Manipular los elementos
+    - Controlar las emociones
+    correctAns: Ver el futuro
+  - questionInfo: Nombre del actor
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c83252180ca736d4e962c6ecc48e063f, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Billy Burke
+    - Christopher Heyerdahl
+    - Cameron Bright
+    - Michael Sheen
+    correctAns: Michael Sheen
+  - questionInfo: Nombre del personaje que interpreta este actor
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1fd6c43843fe68440a327ce5ac00ec1b, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Carlisle
+    - Charlie
+    - Jacob
+    - Mike
+    correctAns: Carlisle
+  - questionInfo: "\xBFA qu\xE9 pel\xEDcula pertenece esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: Eclipse.mp4
+    options:
+    - Eclipse
+    - "Crep\xFAsculo"
+    - Amanecer Parte 1
+    - Amanecer Parte 2
+    correctAns: Eclipse
+  - questionInfo: "\xBFCu\xE1l de los miembros de la familia Cullen vota porque Bella
+      no se convierta en un vampiro?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Rosalie
+    - Jasper
+    - Emmet
+    - Alice
+    correctAns: Rosalie
+  - questionInfo: "\xBFC\xF3mo se llama la tribu a la que pertenece Jacob?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Quileute
+    - Aquelarre
+    - Baslat
+    - Altea
+    correctAns: Quileute
+  - questionInfo: "\xBFCu\xE1l de estos personajes NO pertenece al clan Denali? "
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4226dc5af1ed88548892b559e5f2c63a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Carmen '
+    - Kate
+    - Tanya
+    - Jane
+    correctAns: Jane
+  - questionInfo: 'Nombre de los siguientes personajes:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: faa31348964008147a3a797590b073b7, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Edward-Alice-Jasper
+    - Emmett-Jessica-Jasper
+    - Edward-Jessica-Carlisle
+    - Emmet-Alice-Carlisle
+    correctAns: Edward-Alice-Jasper

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Serie10
+  m_EditorClassIdentifier: 
+  categoryName: Serie 10
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a7fcba5232c8e82469f32d43b69b7985, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The Secret Circle
+    - Dark
+    - The OA
+    - The Society
+    correctAns: Dark
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 300a3c27973d86b4ea84bd93e5e762ff, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 24
+    - Castle
+    - Flesh and Bone
+    - Bones
+    correctAns: Bones
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 74a160b23f2f97648afe0560dda7d0c5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Hollywood
+    - Pretty Little Liars
+    - Scream
+    - Scream Queens
+    correctAns: Scream Queens
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ad95059b0ff00d846954885d9f210d4f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Los expedientes secretos X
+    - Huesos
+    - Fringe
+    - Millennium
+    correctAns: Los expedientes secretos X
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 71e8f570046028845b03994f94685b2b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Mutantes X
+    - The Gifted
+    - Legion
+    - Runaways
+    correctAns: The Gifted
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 51126244885df9d4fa3e8b4311722731, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The Third Day
+    - The Pacific
+    - Chernobyl
+    - "As\xED nos ven"
+    correctAns: Chernobyl
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1ec1c60444820b04084437014f5d5a97, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Sons of Anarchy
+    - Succession
+    - Mad Men
+    - The Sopranos
+    correctAns: Succession
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 720faafaf98743443b384fe7b2aac489, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The Night Manager
+    - Unbelievable
+    - Boardwalk Empire
+    - The Night Of
+    correctAns: The Night Of
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1af92d777ee670248a09f6bb9e4879ee, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Black Summer
+    - Daybreak
+    - The Last of Us
+    - Reality Z
+    correctAns: The Last of Us
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0b5e3ac2cd5d0114285c30a741e8d508, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - House of Cards
+    - The loudest voice
+    - The Newsroom
+    - Designated Survivor
+    correctAns: The loudest voice

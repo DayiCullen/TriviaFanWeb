@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Actors13
+  m_EditorClassIdentifier: 
+  categoryName: Actors 13
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ea9d272b7e595894ab8fa2da1b89c96c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Mel Gibson
+    - Harrison Ford
+    - Richard Gere
+    - Sylvester Stallone
+    correctAns: Mel Gibson
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f731d4ebfd011c944a7ff224e0d69031, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Bill Skarsg\xE5rd"
+    - Tom Felton
+    - "Alexander Skarsg\xE5rd"
+    - "Gustaf Skarsg\xE5rd"
+    correctAns: "Alexander Skarsg\xE5rd"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 54ec58f3cf7d0014ab0f64327ef19bb7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Morgan Freeman
+    - Samuel L. Jackson
+    - ' Denzel Washington'
+    - Richard Roundtree
+    correctAns: Morgan Freeman
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f1078135b78d57841a36df8494d1a2b5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Ed Westwick
+    - Dominic Cooper
+    - Jack Quaid
+    - 'Rami Malek '
+    correctAns: 'Rami Malek '
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 58b360c1dcd53a140b9173e401594027, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Joe Pesci
+    - Robert De Niro
+    - Al Pacino
+    - Dustin Hoffman
+    correctAns: Robert De Niro
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3f6ba78b2769eea4d872b86a049a544b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Cate Blanchett
+    - ' Brie Larson'
+    - ' Charlize Theron'
+    - Tilda Swinton
+    correctAns: Cate Blanchett
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ecf388dd0efa0ea43a10c78ba094c5ac, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Sof\xEDa Vergara"
+    - Eva Longoria
+    - Jennifer Lopez
+    - Salma Hayek
+    correctAns: "Sof\xEDa Vergara"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d48e334e7d8c3c549bd01db1cb282658, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Stephanie Hsu
+    - Brenda Song
+    - Michelle Yeoh
+    - Sandra Oh
+    correctAns: Sandra Oh
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6f377a0a2436dba478e15e1d3b754574, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Kirsten Dunst
+    - Brie Larson
+    - Elizabeth Olsen
+    - 'Margot Robbie '
+    correctAns: Elizabeth Olsen
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 03b3a86a8cec6eb4fbd874cbfc903539, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Salma Hayek
+    - Rachel Weisz
+    - Catherine Zeta-Jones
+    - Anne Hathaway
+    correctAns: Rachel Weisz

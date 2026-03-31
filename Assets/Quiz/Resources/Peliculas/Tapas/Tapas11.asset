@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas11
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 11"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1f88d4c37590eee46b6ebc266802a65b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Perros de trineo
+    - "Rescate en la ant\xE1rtida"
+    - "Fr\xEDo de perros"
+    - 'Snow Buddies: Cachorros en la nieve'
+    correctAns: "Fr\xEDo de perros"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d7597c33066430949964b8a0f49751c0, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Blanca Nieves
+    - Princesa por accidente
+    - Encantada
+    - Espejito, Espejito
+    correctAns: Espejito, Espejito
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 03b19de52444e5746a63cd5405632da9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 16 deseos
+    - "Alice al rev\xE9s"
+    - Radio rebel
+    - Amienemigas
+    correctAns: Amienemigas
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d6b89bee5fdebc74bb29430f583fe178, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El payaso del mal
+    - Terrifer
+    - It
+    - "Guas\xF3n"
+    correctAns: It
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 17390e6033c6bd74abbf77f4f861e973, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El otro cordero
+    - Vampiros al anochecer
+    - "La invitaci\xF3n"
+    - El regalo
+    correctAns: "La invitaci\xF3n"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3a1a59e4dc0a7184e872e2b2af28fdb3, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - A prueba de balas
+    - FBI
+    - "\xBFY d\xF3nde est\xE1n las rubias?"
+    - "Un polic\xEDa en el kinder"
+    correctAns: "\xBFY d\xF3nde est\xE1n las rubias?"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a3fa9a25234891f48be611260f3cb962, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Pasi\xF3n por el triunfo"
+    - Yo, Tonya
+    - 'Lovelace: Garganta Profunda'
+    - "Sue\xF1os sobre hielo"
+    correctAns: Yo, Tonya
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3afe8fefcab6397459eaae8e8bc89b98, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 12 horas
+    - 911 llamada mortal
+    - La sospecha
+    - Desaparecido
+    correctAns: 911 llamada mortal
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: edd4f476101d712438645f77bac75c4f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Locura en el para\xEDso"
+    - TED
+    - Si fueras yo
+    - Amigos con beneficios
+    correctAns: Si fueras yo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6ead5687d1053684e953b9c6c118dcf9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 12 horas para vivir
+    - El ejecutor
+    - Enemigo interno
+    - "El mec\xE1nico"
+    correctAns: 12 horas para vivir

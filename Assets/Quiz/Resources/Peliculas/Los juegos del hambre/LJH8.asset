@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: LJH8
+  m_EditorClassIdentifier: 
+  categoryName: LJH 8
+  questions:
+  - questionInfo: "\xBFCu\xE1ntos hijos tiene Katniss al final de la saga?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 2
+    - 3
+    - 1
+    - Ninguno
+    correctAns: 2
+  - questionInfo: "\xBFCu\xE1ntos a\xF1os tiene Katniss en Sinsajo?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 17
+    - 16
+    - 18
+    - 19
+    correctAns: 17
+  - questionInfo: "\xBFA qu\xE9 distrito pertenece la comadreja?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 5
+    - 7
+    - 8
+    - 10
+    correctAns: 5
+  - questionInfo: "\xBFDe qu\xE9 color es el vestido de Katniss en la primera entrevista
+      de Los juegos del hambre?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Rojo
+    - Blanco
+    - Azul
+    - "Marr\xF3n"
+    correctAns: Rojo
+  - questionInfo: "\xBFC\xF3mo muere Wiress en En llamas?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Por los monos
+    - Por la niebla
+    - La ataca un profesional
+    - Muere ahogada
+    correctAns: La ataca un profesional
+  - questionInfo: "\xBFQui\xE9n gobierna el distrito 13?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Alma Coin
+    - Snow
+    - Lana Crein
+    - Annie Costa
+    correctAns: Alma Coin
+  - questionInfo: 'Apellido de este personaje: '
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1d1066cf179c16548ab33524284355bf, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Latier '
+    - Lotriel
+    - Cameron
+    - Norman
+    correctAns: 'Latier '
+  - questionInfo: 'Nombre de este personaje: '
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b531e9279f8e117419fe693fb57e9ac8, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Boggs '
+    - Bob
+    - Dog
+    - Dobs
+    correctAns: 'Boggs '
+  - questionInfo: "Complet\xE1 la frase: Esta revoluci\xF3n es de todos. ________________.
+      Y necesitamos un portavoz."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - De cada uno de nosotros
+    - Y para todos
+    - Para todos nosotros
+    - Todos juntos podemos
+    correctAns: De cada uno de nosotros
+  - questionInfo: "\xBFQui\xE9n dijo este frase? Sr. Snow volver\xE9 a preguntarle,
+      \xBFqu\xE9 son Los Juegos del Hambre?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Volumnia '
+    - 'Casca '
+    - Tanner
+    - Lucretius
+    correctAns: 'Volumnia '

@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: HarryPotter6
+  m_EditorClassIdentifier: 
+  categoryName: Harry Potter 6
+  questions:
+  - questionInfo: "\xBFCu\xE1l de estos personajes NO forma parte del ej\xE9rcito
+      de Dumbledore?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ginny
+    - Dean
+    - Jasper
+    - Katie
+    correctAns: Jasper
+  - questionInfo: "\xBFCu\xE1les son los colores de Ravenclaw?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Azul y plateado
+    - Verde y amarillo
+    - Celeste y rojo
+    - Violeta y azul
+    correctAns: Azul y plateado
+  - questionInfo: "\xBFCu\xE1l es el hechizo que sirve para levitar cosas?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Wingardium Leviosa
+    - Lumos
+    - Expelliarmus
+    - Wings Levioso
+    correctAns: Wingardium Leviosa
+  - questionInfo: "\xBFQu\xE9 drag\xF3n le toc\xF3 a Fleur Delacour en el Torneo
+      de los tres magos?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Gal\xE9s Verde Com\xFAn"
+    - Hocicorto Sueco
+    - Bola de fuego chino
+    - "Colacuerno H\xFAngaro"
+    correctAns: "Gal\xE9s Verde Com\xFAn"
+  - questionInfo: "\xBFEn qu\xE9 objeto estaba convertido Horace cuando Dumbledore
+      y Harry entran en su casa?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Sill\xF3n"
+    - "L\xE1mpara"
+    - Armario
+    - Reloj de piso
+    correctAns: "Sill\xF3n"
+  - questionInfo: "\xBFQui\xE9n ten\xEDa el boggart de una serpiente?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Parvati '
+    - Ron
+    - Dean
+    - Hannah
+    correctAns: 'Parvati '
+  - questionInfo: "\xBFA cu\xE1l pel\xEDcula pertenece esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: draco.mp4
+    options:
+    - "Harry Potter y el misterio del pr\xEDncipe"
+    - Harry Potter y las reliquias de la muerte Parte 1
+    - Harry Potter y las reliquias de la muerte Parte 2
+    - "Harry Potter y la orden del F\xE9nix"
+    correctAns: "Harry Potter y el misterio del pr\xEDncipe"
+  - questionInfo: 'Nombre de la hermana de Fleur Delacour:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 661f5f9dff05b644b9532220ff7e8bdb, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Gadabrielle
+    - 'Gabrielle '
+    - Giselle
+    - Gabriella
+    correctAns: 'Gabrielle '
+  - questionInfo: "\xBFQui\xE9n dijo esta frase? T\xFA no eres una mala persona Harry,
+      eres una buena persona a la cual le ha tocado vivir cosas malas."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Sirius
+    - Dumbledore
+    - Hermione
+    - Snape
+    correctAns: Sirius
+  - questionInfo: "\xBFEn cu\xE1l pel\xEDcula se dijo esta frase? Estar\xE9 en mi
+      habitaci\xF3n, sin hacer ruido y fingiendo que no existo"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Harry Potter y la piedra filosofal
+    - "Harry Potter y la c\xE1mara secreta"
+    - Harry Potter y el prisionero de Azkaban
+    - "Harry Potter y la orden del F\xE9nix"
+    correctAns: "Harry Potter y la c\xE1mara secreta"

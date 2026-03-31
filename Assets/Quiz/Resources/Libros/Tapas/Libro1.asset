@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Libro1
+  m_EditorClassIdentifier: 
+  categoryName: Libro 1
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2d09ae7723ac3a745a0b16346a5eab29, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Liberaci\xF3n"
+    - Juntos
+    - Caminos Cruzados
+    - Bola de Cristal
+    correctAns: Juntos
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 330803366b8e00241bfebe7b6a69fbad, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Buscando a Alaska
+    - "La ciudad de mis sue\xF1os"
+    - Ciudades de papel
+    - El teorema Katherine
+    correctAns: Ciudades de papel
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1068d0985a2be8644a93a9dc000f2f3d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - No te escondo nada
+    - Somos Uno
+    - Joyas
+    - La Joya
+    correctAns: Joyas
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: acc5dc59123ca9f4bb67b2eeeb5d1796, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Otelo
+    - Romeo y Julieta
+    - Macbeth
+    - El rey Lear
+    correctAns: Otelo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c63cc218d10a2c042bf556bf070469a9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La oscura verdad de Mara Dyer
+    - Ten Tiny Breaths
+    - Cuatro segundos por perder
+    - The Silent Sister
+    correctAns: La oscura verdad de Mara Dyer
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3a19527d66072024b987f2571e486044, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El cuaderno de Noah
+    - Un lugar donde refugiarse
+    - "El guardi\xE1n"
+    - "El viaje m\xE1s largo"
+    correctAns: Un lugar donde refugiarse
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4b0c39a446b93794fb8f433e199e6e1b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Insanity
+    - Oscuros
+    - Blood Magic
+    - Susurros
+    correctAns: Insanity
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 41cb2044dc83ca342b1fe2167b652a7f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 1984
+    - El dador
+    - Shatter Me
+    - Fahrenheit 451
+    correctAns: 1984
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a7005c98755f6f74bbbbe37919d231ec, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Perdona si te llamo amor
+    - Canciones para Paula
+    - "\xA1Buenos d\xEDas, princesa!"
+    - Algo tan sencillo como tuitear te quiero
+    correctAns: "\xA1Buenos d\xEDas, princesa!"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f242fc4aca8bcab4da8ea85a7b91fd63, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Juego de tronos
+    - "Fest\xEDn de cuervos "
+    - Tormenta de espadas
+    - Choque de reyes
+    correctAns: Juego de tronos

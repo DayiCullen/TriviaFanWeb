@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Pelis15
+  m_EditorClassIdentifier: 
+  categoryName: Peliculas 15
+  questions:
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: edc03c31639f761459361453d146e640, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Operacion Red Sparrow
+    - "Juego de esp\xEDas"
+    - Agente Salt
+    - "C\xF3digo sombra: Jack Ryan"
+    correctAns: Agente Salt
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6b8ebeb458ce5354dacc13ad9cb40cc5, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Batman: el caballero de la noche'
+    - El hombre invisible
+    - "Gat\xFAbela"
+    - Batman el origen
+    correctAns: 'Batman: el caballero de la noche'
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4d59ccd3863293245971ed0b20f36c2e, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'El curioso caso de Benjamin Button '
+    - "El paciente ingl\xE9s"
+    - Una gran aventura
+    - El gran pez
+    correctAns: 'El curioso caso de Benjamin Button '
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1ec34b618241ce64a926d346b38a7557, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - El joven manos de tijera
+    - Beetlejuice
+    - Pesadilla
+    - Sombras tenebrosas
+    correctAns: El joven manos de tijera
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 753165f3c36c7614a9cc6c898d6b45e6, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - El gran truco
+    - El ilusionista
+    - El gran showman
+    - Match Point
+    correctAns: El gran truco
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9693dd7f24c4b9c40ad58ff0a3840f2a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Doble
+    - "\xA1Nop!"
+    - "\xA1Huye!"
+    - Nosotros
+    correctAns: Nosotros
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 604d976ed848d134d89c795cac782705, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Academia de vampiros
+    - "Crep\xFAsculo"
+    - "La \xFAltima canci\xF3n"
+    - Sangre Verdadera
+    correctAns: "Crep\xFAsculo"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 627e22b2bb21a8740a7932659027a8e7, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Los puentes de Madison
+    - "Fotograf\xEDa esto "
+    - Aires de esperanza
+    - Un mundo perfecto
+    correctAns: Los puentes de Madison
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: shutter-island.mp4
+    options:
+    - La isla siniestra
+    - "Zod\xEDaco"
+    - "Desapareci\xF3 una noche"
+    - Los infiltrados
+    correctAns: La isla siniestra
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e1789717446c4524c8f572c72ef0c773, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Terminator
+    - V de Venganza
+    - Matrix
+    - Hombres de negro
+    correctAns: Matrix

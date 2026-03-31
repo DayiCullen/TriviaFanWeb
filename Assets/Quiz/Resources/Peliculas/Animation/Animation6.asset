@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Animation6
+  m_EditorClassIdentifier: 
+  categoryName: Animation 6
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a3af2f2c272369940b1ac3c8b8758bd2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Bear of Love
+    - Great Spirits
+    - Kenai & Koda
+    - Brother Bear
+    correctAns: Brother Bear
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6f140c3b42ff49443b4fd913993a8849, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Tod: The Fox'
+    - My Best Friend
+    - The Fox and the Hound
+    - Tod & Copper
+    correctAns: The Fox and the Hound
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9e89f0f8dcda13e4482d5b81b9752c77, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Bambi:  Prince of the Forest'
+    - Bambi, the Deer
+    - The Adventures of Bambi
+    - Bambi
+    correctAns: Bambi
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: fc0f9f6999c92ba40a0e715d2b4b10bc, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Once upon a December
+    - Anastasia
+    - The Romanov family
+    - Dimitri & Anastasia
+    correctAns: Anastasia
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 31a2a1c7bd8c1a844ac8af458bbec858, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - George of the Jungle
+    - The Legend of Tarzan
+    - Tarzan
+    - Kala
+    correctAns: Tarzan
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 07a40dca7bfd2db4eb75656ce87e4fc6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Coraline
+    - Corpse Bride
+    - Coraline & the New World
+    - Frankenweenie
+    correctAns: Coraline
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b56654f8d2f8f8c48af07cf3335b8b4a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The Adventures of Sinbad
+    - The Adventures of Spirit
+    - 'Spirit: Stallion of the Cimarron'
+    - 'Sinbad: Legend of the Seven Seas'
+    correctAns: 'Spirit: Stallion of the Cimarron'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d27cc5bb1da628d41ab023417dbd3e5a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Bernardo & Bianca
+    - The Rescuers
+    - The Great Mouse Detective
+    - Oliver & Company
+    correctAns: The Rescuers
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b1f7f6bc1547b6b45b4eb853f8517b5d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The Good Dinosaur
+    - Littlefoot
+    - Dinosaur
+    - The Land Before Time
+    correctAns: Dinosaur
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c6e919495f2a9714b87086585036a07d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "WALL\xB7E"
+    - 'EVE & WALL-E '
+    - WALL-E the robot
+    - WALL-E  the garbage collecting robot
+    correctAns: "WALL\xB7E"

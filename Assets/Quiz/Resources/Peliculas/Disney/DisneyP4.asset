@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: DisneyP4
+  m_EditorClassIdentifier: 
+  categoryName: Pelis Disney 4
+  questions:
+  - questionInfo: "\xBFDe qui\xE9n es fan Britney en Atrapado en los suburbios?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Orlando Bloom
+    - Jordan Cahill
+    - James Cameron
+    - Jason Calvin
+    correctAns: Jordan Cahill
+  - questionInfo: "\xBFCu\xE1l es el libro favorito de Zoey en Zapped?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Matar a un ruise\xF1or"
+    - Mujercitas
+    - Cumbres Borrascosas
+    - Orgullo y prejuicio
+    correctAns: "Matar a un ruise\xF1or"
+  - questionInfo: "\xBFC\xF3mo se llama el personaje principal de Cloud 9?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: eb43d16a6c70cd64d892f7ef526d2daf, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Kayla Morgan
+    - Skye Sailor
+    - Kim Taylor
+    - Kayle Swift
+    correctAns: Kayla Morgan
+  - questionInfo: "\xBFC\xF3mo se llaman las tres hadas de La bella durmiente?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Flora, Fauna y Primavera
+    - "Oto\xF1o, Invierno y Verano"
+    - Naturaleza, Fuego y Aire
+    - Verde, Rosa y Azul
+    correctAns: Flora, Fauna y Primavera
+  - questionInfo: "Complet\xE1 la frase: Nunca ha habido nadie as\xED _____________________."
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e2365cee5ee80bd4fa5798f0bafa2d28, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "ser\xE9 la sensaci\xF3n"
+    - "Ser\xE9 la revoluci\xF3n"
+    - "soy el \xFAnico gran le\xF3n"
+    - "soy el m\xE1gnifico le\xF3n"
+    correctAns: "ser\xE9 la sensaci\xF3n"
+  - questionInfo: 'Apellido de esta familia:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b09c783e67000b440b91e9d46a982b34, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Mirabel
+    - Madrigal
+    - Marginal
+    - "Miram\xE1s"
+    correctAns: Madrigal
+  - questionInfo: "\xBFA qu\xE9 se dedica la familia de Miguel en la pel\xEDcula
+      Coco?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Zapateros
+    - "M\xFAsicos"
+    - Reposteros
+    - Floristas
+    correctAns: Zapateros
+  - questionInfo: "\xBFA qu\xE9 se dedican los padres de Allie en Avalon High?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Profesores de Historia Medieval
+    - "Profesores de Qu\xEDmica"
+    - "Profesores de \xC1lgebra"
+    - "Profesores de Pol\xEDtica"
+    correctAns: Profesores de Historia Medieval
+  - questionInfo: "\xBFC\xF3mo se llama el pueblo en d\xF3nde vive Raya?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Kumandra
+    - Tundrabania
+    - Comarca
+    - Kanmandra
+    correctAns: Kumandra
+  - questionInfo: "\xBFC\xF3mo se llama el novio robot de Mae en C\xF3mo crear el
+      chico ideal?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Albert
+    - Kevin
+    - Jason
+    - Chris
+    correctAns: Albert

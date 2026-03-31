@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Libro3
+  m_EditorClassIdentifier: 
+  categoryName: Libro 3
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c71e91e0f8c249e479d9bd38d628f438, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Si decido quedarme
+    - Desaparecidas
+    - Si no despierto
+    - Hana
+    correctAns: Si no despierto
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 901cf66e63f10164bb2e754859a7232f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Deliverance
+    - Fallen
+    - Defiance
+    - Deception
+    correctAns: Defiance
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2ecc0c3580a4f494188dea8bde682d5d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Fabricante de l\xE1grimas"
+    - El Legado
+    - "La Declaraci\xF3n"
+    - Incarnate
+    correctAns: "La Declaraci\xF3n"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a4ab60cc2f5f26146aff392c82b32835, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "La \xFAltima vez que ment\xED"
+    - Una buena chica
+    - La mujer en la ventana
+    - "A trav\xE9s de mi ventana"
+    correctAns: La mujer en la ventana
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1ae5d8d98477e934f9bbf9cde6fc09cd, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Crimen y castigo '
+    - Sensatez y sentimiento
+    - Orgullo y prejuicio
+    - "Matar un ruise\xF1or"
+    correctAns: Orgullo y prejuicio
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3af0999b8d4565c4185920011133ea7f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tal vez ahora
+    - 'Nunca, nunca '
+    - Tal Vez Nunca
+    - Tempestad
+    correctAns: 'Nunca, nunca '
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 71276657d54ea40488284474088e589c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Empezando por diez
+    - Nosotros
+    - Dulce despedida
+    - Siempre el mismo dia
+    correctAns: Siempre el mismo dia
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 824befc11dd4fcb4b94fab2386a3cce2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The las King
+    - Lost Kingdom
+    - The last Kingdom
+    - The last Queen
+    correctAns: The last Kingdom
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ac228b32c798e46439f1c87dd15b750a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - No digas su nombre
+    - "Canci\xF3n de cuna rota"
+    - A Ciegas
+    - Cautiva en la Oscuridad
+    correctAns: "Canci\xF3n de cuna rota"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1df0f44071f3b8f47a86df497a6cfb9a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La familia Corleone
+    - "Man\xE9jame la vida"
+    - Las marionetas
+    - El padrino
+    correctAns: El padrino

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Pelis20
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDculas 20"
+  questions:
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7df7c86724d7c704a9115aade4146227, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "S\xE9 lo que hicieron el verano pasado"
+    - Scary Movie
+    - "Cuando un extra\xF1o llama"
+    - Scream
+    correctAns: Scream
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6b6e9dcf0781a12408f6f583c4567c86, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Si decido quedarme
+    - "La decisi\xF3n m\xE1s dif\xEDcil"
+    - "Cada d\xEDa"
+    - Si no despierto
+    correctAns: Si decido quedarme
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4e30ca86f084d2241ab67ea29cc8f69a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 17 otra vez
+    - High School musical
+    - Buenos vecinos
+    - "Alma de campe\xF3n"
+    correctAns: 17 otra vez
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 08191e85609c6a04db77bca1bebfac3f, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Todo est\xE1 perdido"
+    - En lo profundo
+    - Mar abierto
+    - A la deriva
+    correctAns: A la deriva
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8281c1044322f0e469a470a5f6904b06, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Brujillizas
+    - Hermana Hermana
+    - Juego de gemelas
+    - Viaje a Halloween Town
+    correctAns: Brujillizas
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 89b4b3eb088ae0e469aeec0664b129ed, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Heathers: Escuela de j\xF3venes asesinos"
+    - "Naci\xF3n asesina"
+    - El club de los cinco
+    - "No le digas a la mam\xE1 que la ni\xF1era ha muerto"
+    correctAns: "Heathers: Escuela de j\xF3venes asesinos"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 69d511f08bf6e1f4ea7da9727dd10cb0, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Creed
+    - Golpes del destino
+    - Rocky
+    - El club de la pelea
+    correctAns: Rocky
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 54153ffdb72b8414285df2c55dad8d99, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - La casa de cera
+    - Viernes 13
+    - La casa de al lado
+    - "Los extra\xF1os"
+    correctAns: La casa de cera
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 95763c164ae5f2a4aa09a4441a57576b, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Viaje de chicas
+    - "A\xF1o nuevo"
+    - Chicas pesadas
+    - Si no despierto
+    correctAns: "A\xF1o nuevo"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: Unzooencasa.mp4
+    options:
+    - Buscando a Alaska
+    - "Un zool\xF3gico en casa"
+    - En la tormenta
+    - Ciudades de Papel
+    correctAns: "Un zool\xF3gico en casa"

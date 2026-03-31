@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: THG3
+  m_EditorClassIdentifier: 
+  categoryName: THG 3
+  questions:
+  - questionInfo: Who is selected in the first film?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Primrose Everdeen
+    - Katniss Everdeen
+    - Johanna Mason
+    - Annie Cresta
+    correctAns: Primrose Everdeen
+  - questionInfo: What was Rue's score?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 7
+    - 8
+    - 9
+    - 6
+    correctAns: 7
+  - questionInfo: What did District 11 do?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Agriculture '
+    - Livestock
+    - Lumber
+    - Coal mining.
+    correctAns: 'Agriculture '
+  - questionInfo: What is the name of Finnick's wife?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Annie
+    - Maddie
+    - Johanna
+    - Hannah
+    correctAns: Annie
+  - questionInfo: What did Peeta do?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - He was a hunter
+    - He was a baker
+    - He was a butcher
+    - He was a doctor
+    correctAns: He was a baker
+  - questionInfo: ' What does this sign mean?'
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: "se\xF1a.mp4"
+    options:
+    - Goodbye, admiration, and unity
+    - Anger and revenge
+    - Strength, envy and virtue
+    - Anger, strength and revenge
+    correctAns: Goodbye, admiration, and unity
+  - questionInfo: 'Last name of this character:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 02952cf721743964ba933a144b992beb, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Odair
+    - Montriel
+    - O'Dier
+    - Ontriel
+    correctAns: Odair
+  - questionInfo: Which movie does this scene belong to?
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: THG1.mp4
+    options:
+    - The Hunger Games
+    - Catching Fire
+    - Mockingjay - Part 1
+    - Mockingjay - Part 2
+    correctAns: The Hunger Games
+  - questionInfo: 'Actor''s name:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: fc87354150847354f8daed67b98aa32a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Wes Bentley
+    - Stanley Tucci
+    - Jack Quaid
+    - Alexander Ludwig
+    correctAns: Wes Bentley
+  - questionInfo: 'Name of the character played by this actress:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 753a6cb7ca1c13845a5406e876a5ac4c, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Effie
+    - Johanna
+    - Tigris
+    - Cashmere
+    correctAns: Effie

@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: "Crep\xFAsculo9"
+  m_EditorClassIdentifier: 
+  categoryName: "Crep\xFAsculo 9"
+  questions:
+  - questionInfo: "\xBFQu\xE9 premio ganan Edward y Bella en la clase de biolog\xEDa?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Una cebolla de oro
+    - Una manzana dorada
+    - Un pez dorado
+    - Una zanahoria dorada
+    correctAns: Una cebolla de oro
+  - questionInfo: "\xBFA cu\xE1l pel\xEDcula pertenece esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: ecclipse.mp4
+    options:
+    - Eclipse
+    - Luna Nueva
+    - Amanecer Parte 1
+    - Amanecer Parte 2
+    correctAns: Eclipse
+  - questionInfo: "\xBFCu\xE1l es el parentesco entre Leah y Seth?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8e57444fd0640e045b3a484a3683c7e6, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Son hermanos
+    - Son primos
+    - Son medios hermanos
+    - Son amigos
+    correctAns: Son hermanos
+  - questionInfo: "\xBFDe qu\xE9 color son los ojos de los vampiros cuando tienen
+      hambre?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Marrones
+    - Rojos
+    - Dorados
+    - Negros
+    correctAns: Negros
+  - questionInfo: "\xBFCu\xE1l de estas es una de las razones que Bella le da a Charlie
+      para irse del pueblo?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Forks no es lo que pensaba
+    - "Se cans\xF3 de vivir con \xE9l"
+    - "No quiere quedarse atrapada en Forks como su mam\xE1."
+    - "Lo odia y no quiere verlo m\xE1s"
+    correctAns: "No quiere quedarse atrapada en Forks como su mam\xE1."
+  - questionInfo: "\xBFQui\xE9n convirti\xF3 a Jasper?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Mar\xEDa"
+    - Carlisle
+    - Michael
+    - Lucy
+    correctAns: "Mar\xEDa"
+  - questionInfo: "\xBFA qu\xE9 juego juegan Bella y Edward cuando est\xE1n de Luna
+      de miel?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ajedrez
+    - Las damas
+    - Twister
+    - "V\xF3ley \u200B "
+    correctAns: Ajedrez
+  - questionInfo: "\xBFC\xF3mo se llaman los padres de Bella?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Ren\xE9e y Charlie "
+    - "Ren\xE9e y Phil"
+    - Charlie y Rose
+    - Rose y Phil
+    correctAns: "Ren\xE9e y Charlie "
+  - questionInfo: "Que excusa pone Bella de por qu\xE9 no va al baile"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Se va a Jacksonville
+    - 'Tiene que estudiar para un examen '
+    - "Se va con su mam\xE1 a Los \xC1ngeles"
+    - Se va a Nueva York
+    correctAns: Se va a Jacksonville
+  - questionInfo: "\xBFQui\xE9n gana el partido de b\xE9isbol\u200B?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 332c640e59b7a3e42bd46bb43421a855, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Nunca lo terminaron
+    - El equipo de Edward
+    - El equipo de James
+    - Empatan
+    correctAns: Nunca lo terminaron

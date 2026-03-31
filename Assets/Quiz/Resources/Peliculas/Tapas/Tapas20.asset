@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas20
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 20"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e1cea196dc9620345a5c27e96d5d94aa, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Baby: el aprendiz del crimen'
+    - 'Ready Player One: comienza el juego'
+    - Blade Runner
+    - '2036: Nexus Dawn'
+    correctAns: Blade Runner
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0855397cdd34e0b4c937ddf13f68e1d2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Spider-Man: sin camino a casa'
+    - "El sorprendente Hombre Ara\xF1a 2: La amenaza de Electro"
+    - "El hombre ara\xF1a"
+    - "El sorprendente Hombre Ara\xF1a"
+    correctAns: "El hombre ara\xF1a"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 514534f8aca066f489b8859399ee4e3b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Sin escape
+    - Terremoto
+    - "L\xEDnea de fuego"
+    - Lo imposible
+    correctAns: Sin escape
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7df935c305f33dc4aad0cb80b4134518, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - En la hierba alta
+    - 'Somnia: Antes de despertar'
+    - El juego de Gerald
+    - The Perfection
+    correctAns: El juego de Gerald
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2021b503765cd464f962af25298d7dfe, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "R\xEDo m\xEDstico"
+    - "Atracci\xF3n peligrosa"
+    - "El escuadr\xF3n del crimen"
+    - El plan perfecto
+    correctAns: "Atracci\xF3n peligrosa"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 00e0b76779ee54e4cbe244f8e3f2da6a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "La isla de la fantas\xEDa"
+    - "La cacer\xEDa "
+    - El bosque
+    - Amenaza en lo profundo
+    correctAns: "La cacer\xEDa "
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 839d294a6c3a8ca44851f172c091a8a5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Step Up
+    - Footloose
+    - Dirty Dancing
+    - "Ritmo y seducci\xF3n"
+    correctAns: Step Up
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: fd13c683d6d23df478c3877a13217ad3, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Los hu\xE9spedes"
+    - "A trav\xE9s de mi ventana"
+    - La ventana secreta
+    - La mujer en la ventana
+    correctAns: "Los hu\xE9spedes"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c39a4bdf79d3d454c9a3f11248e8f7d5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - New York, I Love You
+    - "A\xF1o nuevo"
+    - Simplemente no te quiere
+    - "D\xEDa de los enamorados"
+    correctAns: Simplemente no te quiere
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d488711e3dd8c6449904b4e030363aeb, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Experta en bodas
+    - "Se\xF1ales de amor"
+    - La propuesta
+    - Eternamente comprometidos
+    correctAns: Experta en bodas

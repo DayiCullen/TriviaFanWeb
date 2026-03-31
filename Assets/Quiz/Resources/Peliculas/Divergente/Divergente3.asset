@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Divergente3
+  m_EditorClassIdentifier: 
+  categoryName: Divergente 3
+  questions:
+  - questionInfo: "\xBFCu\xE1l es el lema de las facciones?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Facci\xF3n antes que la sangre"
+    - "Sangre antes que la facci\xF3n"
+    - Las facciones unidas hacen un mundo mejor
+    - "Para mantener el equilibro cada facci\xF3n tiene que hacer lo suyo"
+    correctAns: "Facci\xF3n antes que la sangre"
+  - questionInfo: "\xBFA qui\xE9n le clavan en el ojo un cuchillo de mantequilla?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Edward
+    - Al
+    - Will
+    - Peter
+    correctAns: Edward
+  - questionInfo: "\xBFQui\xE9n es la l\xEDder de cordialidad?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Johanna
+    - Evelyn
+    - Hannah
+    - Anna
+    correctAns: Johanna
+  - questionInfo: Nombre real de Cuatro
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Tob\xEDas"
+    - Marcos
+    - Albert
+    - Sebastian
+    correctAns: "Tob\xEDas"
+  - questionInfo: "En la ceremonia de elecci\xF3n que contiene el cuenco de Abnegaci\xF3n"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Piedras grises
+    - Agua
+    - Tierra
+    - Arena
+    correctAns: Piedras grises
+  - questionInfo: "Complet\xE1 la frase: Si no encajas en una categor\xEDa ____________"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - no pueden controlarte.
+    - se van a deshacer de ti.
+    - significa que sos divergente.
+    - es malo para la sociedad.
+    correctAns: no pueden controlarte.
+  - questionInfo: 'Nombre de la actriz:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6ebf2972464139142a80cac9f532f96a, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ashley Judd
+    - Maggie Q
+    - Naomi Watts
+    - Kate Winslet
+    correctAns: Ashley Judd
+  - questionInfo: 'Nombre del personaje que interpreta este actor:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d777be3e1c3e2a543bac72f06cc6cced, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Andrew '
+    - Marcus
+    - Edward
+    - Michael
+    correctAns: 'Andrew '
+  - questionInfo: "\xBFQu\xE9 est\xE1 pasando en esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: divergente.mp4
+    options:
+    - "Cuatro estaba en un simulaci\xF3n y quer\xEDa matar a Tris"
+    - "Tris estaba en su prueba de iniciaci\xF3n"
+    - Estaban controlando a Tris con un suero
+    - "Tris entr\xF3 a erudici\xF3n sin permiso"
+    correctAns: "Cuatro estaba en un simulaci\xF3n y quer\xEDa matar a Tris"
+  - questionInfo: "\xBFQu\xE9 color de vestimenta usan en cordialidad?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Rojo o amarillo
+    - Azul
+    - Blanco
+    - Morado
+    correctAns: Rojo o amarillo

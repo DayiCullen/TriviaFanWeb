@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Pelis22
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDculas 22"
+  questions:
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 017dd6a0f5c1d5a46a819c7dd7332288, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Una navidad de locos
+    - La cura siniestra
+    - La isla siniestra
+    - El manicomio de Eliza
+    correctAns: El manicomio de Eliza
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5b836c33337f4844abac19901b57874d, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Cada d\xEDa"
+    - ' El esplendoroso presente'
+    - Ciudades de papel
+    - Bajo la misma estrella
+    correctAns: Bajo la misma estrella
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: afeb834f01659e846a197fb6087dd855, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - La viuda negra
+    - La isla
+    - "\xC6on Flux"
+    - Lucy
+    correctAns: La isla
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2fb032495edea884192f1a23f4fec4cd, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Tibur\xF3n"
+    - "Megalod\xF3n"
+    - Sharknado
+    - Terror en lo profundo
+    correctAns: Sharknado
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: eb5c946635dcafd4392058d48961b982, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Los extra\xF1os"
+    - Viernes 13
+    - Halloween
+    - La masacre de Texas
+    correctAns: La masacre de Texas
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3586494c4d0e4f843946cfce1218a050, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Una pareja casi perfecta
+    - "Recu\xE9rdame"
+    - Sweet November
+    - "Oto\xF1o en Nueva York"
+    correctAns: "Oto\xF1o en Nueva York"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 408f4328bf8876647b84cdceb7c808e0, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Quisiera ser grande
+    - Los cazafantasmas
+    - Volver al futuro
+    - Gremlins
+    correctAns: Volver al futuro
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9cf47722ddf700b40950863b991b59c7, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Aliados
+    - Amores perros
+    - Babel
+    - "Tr\xE1fico"
+    correctAns: Babel
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c12287520be74cc4f9f112558befd977, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Furia de titanes
+    - Troya
+    - Gladiador
+    - "Coraz\xF3n valiente "
+    correctAns: Gladiador
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: coyote-ugly-dance.mp4
+    options:
+    - Coyote Ugly
+    - Hasta que el cuerpo aguante
+    - 54
+    - Despedida de solteras
+    correctAns: Coyote Ugly

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Actor26
+  m_EditorClassIdentifier: 
+  categoryName: Actores 26
+  questions:
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b30933ed862621841b6eeb9e6f524d42, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Aaron Taylor-Johnson
+    - Liam Hemsworth
+    - Henry Cavill
+    - Sam Claflin
+    correctAns: Sam Claflin
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0ea83fcf7c617714383b544f7d9b33ac, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Paul Walker
+    - Chris Pine
+    - Matthew McConaughey
+    - Bradley Cooper
+    correctAns: Paul Walker
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f8a5a2ef5be968f44b769cb679145e39, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Bill Murray
+    - Harold Ramis
+    - ' Michael Douglas'
+    - Tom Hanks
+    correctAns: Bill Murray
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 9540923d5b841bb44bf7d25ed2abfefd, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Luke Evans
+    - ' Thomas Jane'
+    - Aaron Eckhart
+    - Gerard Butler
+    correctAns: Aaron Eckhart
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 810c3680c1e34d547a33c81e5fba6184, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Daniel Day-Lewis
+    - Richard Gere
+    - Paul Thomas Anderson
+    - George Clooney
+    correctAns: Daniel Day-Lewis
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ffd04ee2658bd614091406ae32e2716d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Constance Wu
+    - Awkwafina
+    - Brenda Song
+    - Gemma Chan
+    correctAns: Awkwafina
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 919d4fc704283d74eb5f2ee608e2e568, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Virginia Gardner
+    - Diane Kruger
+    - "M\xE9lanie Laurent"
+    - January Jones
+    correctAns: Diane Kruger
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 669dea8730f28bc45bb943f2beeba918, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "B\xE9r\xE9nice Bejo"
+    - Shannyn Sossamon
+    - "\xC9lodie Bouchez"
+    - "Suzanne Cl\xE9ment"
+    correctAns: "B\xE9r\xE9nice Bejo"
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 40fc3bef90af4404a96868cffdbb9024, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Jessica Biel
+    - Maggie Gyllenhaal
+    - Katie Holmes
+    - Jessica Alba
+    correctAns: Katie Holmes
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0476f709fac686143a007911f397dbe6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Leslie Mann
+    - Roan Curtis
+    - Amanda Schull
+    - Katherine Heigl
+    correctAns: Katherine Heigl

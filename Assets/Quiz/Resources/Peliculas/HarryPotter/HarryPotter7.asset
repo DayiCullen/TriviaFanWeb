@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: HarryPotter7
+  m_EditorClassIdentifier: 
+  categoryName: Harry Potter 7
+  questions:
+  - questionInfo: "\xBFQu\xE9 us\xF3 Harry para permanecer en el agua en el Torneo
+      de los tres magos?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Una burbuja de aire
+    - "Se convirti\xF3 en tibur\xF3n"
+    - Branquialgas
+    - Un snorkel
+    correctAns: Branquialgas
+  - questionInfo: "\xBFQu\xE9 le pregunta primero Snape a Harry en la clase de pociones
+      en la primer pel\xEDcula?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "\xBFqu\xE9 se obtiene al mezclar polvo de ra\xEDces de asf\xF3delo con una
+      infusi\xF3n de ajenjo?\""
+    - "\xBFD\xF3nde buscar\xEDas si te digo que me traigas un bezoar?"
+    - "\xBFCu\xE1l es la diferencia, Potter, entre ac\xF3nito y luparia?"
+    - "\xBFAs\xED que eres un sabelotodo, Potter?"
+    correctAns: "\xBFqu\xE9 se obtiene al mezclar polvo de ra\xEDces de asf\xF3delo
+      con una infusi\xF3n de ajenjo?\""
+  - questionInfo: "\xBFEn qu\xE9 posici\xF3n jugaban Fred y George en el Quidditch?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Golpeadores
+    - Cazadores
+    - Guardianes
+    - Una era golpeador y otro cazador
+    correctAns: Golpeadores
+  - questionInfo: "\xBFQui\xE9n es el profesor de pociones en la sexta pel\xEDcula?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Slughorn '
+    - Snape
+    - Umbridge
+    - Slogart
+    correctAns: 'Slughorn '
+  - questionInfo: "\xBFCu\xE1ntos horrocruxes cre\xF3 Voldemort en total?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 7
+    - 6
+    - 8
+    - 10
+    correctAns: 7
+  - questionInfo: "\xBFCu\xE1l es el patronus de Hermione?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Nutria
+    - Castor
+    - Perro
+    - Gato
+    correctAns: Nutria
+  - questionInfo: "\xBFDe qui\xE9n es esta varita?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ccac6310bbde09148bde632095f4a119, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Neville
+    - Ginny
+    - Lucius
+    - Fred
+    correctAns: Neville
+  - questionInfo: "\xBFQu\xE9 hechizo le lanz\xF3 Hermione a Neville en esta imagen?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7e55d0d792149f84480c9b3fb981926d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Petrificus Totalus
+    - Expelliarmus
+    - Desmaius
+    - 'Stupefy '
+    correctAns: Petrificus Totalus
+  - questionInfo: "\xBFEn cu\xE1l pel\xEDcula se dijo esta frase? Qu\xE9dense en
+      formaci\xF3n. No se separen ni aunque uno se muera."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Harry Potter y la orden del F\xE9nix"
+    - "Harry Potter y el c\xE1liz de fuego"
+    - Harry Potter y las reliquias de la muerte Parte 1
+    - "Harry Potter y el misterio del pr\xEDncipe"
+    correctAns: "Harry Potter y la orden del F\xE9nix"
+  - questionInfo: "\xBFQui\xE9n invent\xF3 el hechizo Sectumsempra?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Dumbledore
+    - Tom Riddle
+    - Harry
+    - Snape
+    correctAns: Snape

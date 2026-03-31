@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: DisneyP2
+  m_EditorClassIdentifier: 
+  categoryName: Pelis Disney 2
+  questions:
+  - questionInfo: "\xBFCu\xE1l es el \xFAltimo deseo de Abby en 16 deseos?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Una foto de Logan Buchanan
+    - 'Tener la mejor fiesta '
+    - Obetener su licencia de conducir
+    - 'Vencer a Krista Cook '
+    correctAns: Una foto de Logan Buchanan
+  - questionInfo: "\xBFCu\xE1l es la primera emoci\xF3n de Riley en Intensamente?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Alegr\xEDa"
+    - Tristeza
+    - Desagrado
+    - Furia
+    correctAns: "Alegr\xEDa"
+  - questionInfo: "\xBFDe d\xF3nde huye Rosie en Programa de protecci\xF3n para princesas?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Costa Luna
+    - Costa Estrella
+    - Eva Luna
+    - Linda Estrella
+    correctAns: Costa Luna
+  - questionInfo: "\xBFEn qu\xE9 d\xE9cada transcurre la pel\xEDcula en la que se
+      meten Mack y Brady en Teen Beach Movie? "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 60
+    - 70
+    - 50
+    - 80
+    correctAns: 60
+  - questionInfo: "\xBFQu\xE9 princesa es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ed5958a3a03eb5745a964a509b12a4dc, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Ariel
+    - "Jasm\xEDn  "
+    - Tiana
+    - Cenicienta
+    correctAns: "Jasm\xEDn  "
+  - questionInfo: 'Nombre de este personaje:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 532eef9d17286c9439ebae186b5e8b5b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Mei
+    - Miriam
+    - Ming
+    - Mal
+    correctAns: Mei
+  - questionInfo: "\xBFC\xF3mo se llama la primera canci\xF3n que cantan en Descendientes?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Rotten to the Core
+    - Ways to Be Wicked
+    - Good to Be Bad
+    - Set It Off
+    correctAns: Rotten to the Core
+  - questionInfo: "\xBFC\xF3mo se llaman los personajes principales de Una aventura
+      de ni\xF1eras?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d38f9ebfa494ce141b93e2270bf736f9, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Jenny Parker y  Lola P\xE9rez "
+    - "Jenna Parker y Lila P\xE9rez"
+    - "Jenny Prain y Lola L\xF3pez"
+    - "Jenna Prain y Lila L\xF3pez"
+    correctAns: "Jenny Parker y  Lola P\xE9rez "
+  - questionInfo: "\xBFDe qu\xE9 banda es f\xE1natica Lola de Confesiones de una
+      tipica adolescente?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Sidarthur
+    - Sidapur
+    - Sidaltur
+    - Sidalphur
+    correctAns: Sidarthur
+  - questionInfo: "\xBFEn qu\xE9 a\xF1o se estren\xF3 El Rey Le\xF3n?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 1994
+    - 1992
+    - 1993
+    - 1995
+    correctAns: 1994

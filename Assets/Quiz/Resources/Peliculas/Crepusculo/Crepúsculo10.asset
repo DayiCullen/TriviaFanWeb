@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: "Crep\xFAsculo10"
+  m_EditorClassIdentifier: 
+  categoryName: "Crep\xFAsculo 10"
+  questions:
+  - questionInfo: "\xBFQui\xE9n NO fue convertido por Carlisle?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Alice
+    - Emmet
+    - Rosalie
+    - Esme
+    correctAns: Alice
+  - questionInfo: "\xBFQu\xE9 le dice James a Bella que diga a la c\xE1mara? "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Que vengue su muerte
+    - Que la dejen en paz
+    - "Que est\xE1 secuestrada"
+    - Que debe morir junto con ella
+    correctAns: Que vengue su muerte
+  - questionInfo: "\xBFC\xF3mo se llama la isla a la que van de luna de miel?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Isla Esme
+    - Isla Amor
+    - Isla Escarlata
+    - Isla mi vida
+    correctAns: Isla Esme
+  - questionInfo: "\xBFEn d\xF3nde naci\xF3 Bella?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Forks
+    - Phoenix
+    - San Francisco
+    - Port Angeles
+    correctAns: Forks
+  - questionInfo: "\xBFC\xF3mo se llama el h\xEDbrido humano-vampiro que va a buscar
+      Alice?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Nahuel '
+    - Tahuel
+    - Quehuel
+    - Natahuel
+    correctAns: 'Nahuel '
+  - questionInfo: "\xBFCu\xE1l es el apodo que Jacob le pone a Renesmee?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Nessie
+    - Ness
+    - Nesme
+    - Ren
+    correctAns: Nessie
+  - questionInfo: "\xBFCu\xE1nto tiempo dur\xF3 el embarazo de Bella?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "28 d\xEDas"
+    - 3 meses
+    - 2 meses
+    - "37 d\xEDas"
+    correctAns: "28 d\xEDas"
+  - questionInfo: "\xBFQu\xE9 le dicen a Ren\xE9e de por qu\xE9 Bella termin\xF3
+      en el hospital?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6483b5c6f587fe84b8e77fbc8c42c518, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Se cay\xF3 por las escaleras"
+    - Tuvo un accidente de auto
+    - Fue atacada
+    - "Se le cay\xF3 una l\xE1mpara encima"
+    correctAns: "Se cay\xF3 por las escaleras"
+  - questionInfo: "\xBFQu\xE9 canci\xF3n sonaba en este momento?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 842cfd1df7efa8d4ab5d0459f467687e, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Flightless Bird, American Mouth
+    - Go All The Way
+    - Decode
+    - Leave Out All The Rest
+    correctAns: Flightless Bird, American Mouth
+  - questionInfo: "\xBFA cu\xE1l pel\xEDcula pertenece esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: amanacerparte1-3.mp4
+    options:
+    - Amanecer Parte 1
+    - Amanecer Parte 2
+    - Eclipse
+    - "Crep\xFAsculo"
+    correctAns: Amanecer Parte 1

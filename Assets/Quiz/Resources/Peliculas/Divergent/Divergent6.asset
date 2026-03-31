@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Divergent6
+  m_EditorClassIdentifier: 
+  categoryName: Divergente 6
+  questions:
+  - questionInfo: What is Tris's name?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Beatrice '
+    - Tristan
+    - 'Leatris '
+    - 'Sydatris '
+    correctAns: 'Beatrice '
+  - questionInfo: What faction are they in at the beginning of insurgent?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Amity
+    - Candor
+    - Abnegation
+    - Dauntless
+    correctAns: Amity
+  - questionInfo: Who is the first to jump to the Dauntless headquarters?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tris
+    - Molly
+    - Christina
+    - Peter
+    correctAns: Tris
+  - questionInfo: What do they call abnegation?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Stiff
+    - Bumptious
+    - Inferiors
+    - Helpers
+    correctAns: Stiff
+  - questionInfo: How many fears does Tris have?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 6
+    - 10
+    - 5
+    - 11
+    correctAns: 6
+  - questionInfo: 'According to their clothing: What faction do they belong to?'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 01af9282855f5fb4c9b099a95f7bdc64, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Candor
+    - Amity
+    - Abnegation
+    - Erudite
+    correctAns: Candor
+  - questionInfo: In the choosing ceremony,what is contained in the bowl of Erudite?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Water
+    - 'Soil '
+    - Glass
+    - Metal
+    correctAns: Water
+  - questionInfo: 'Actress name:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 85bb5932463ae3a4789b8206393b18ae, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Octavia Spencer
+    - Viola Davis
+    - Thuso Mbedu
+    - ' Cicely Tyson'
+    correctAns: Octavia Spencer
+  - questionInfo: 'Name of the character played by this actor:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b8966776ed2dd58418e6e596a1660564, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - David
+    - Henry
+    - Albert
+    - Edward
+    correctAns: David
+  - questionInfo: 'Motto of Amity:'
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Trust.Self-Sufficiency.Forgiveness.Kindness
+    - Joy.Kindness.Trust.Forgiveness
+    - Kindness.Self-reliance.Trust.Joy
+    - Joy.Forgiveness.Self-reliance.Trust
+    correctAns: Trust.Self-Sufficiency.Forgiveness.Kindness

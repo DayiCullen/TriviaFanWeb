@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Pelis23
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDculas 23"
+  questions:
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d243f717fb0d6ba44a34ae30ca6cddd3, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Terremoto : La falla de San Andr\xE9s"
+    - Impacto profundo
+    - Daylight
+    - Volcano
+    correctAns: Volcano
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d7f38d78c9248444192ab95bb7ef2714, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "En alg\xFAn lugar de \xC1frica"
+    - "\xC1frica m\xEDa"
+    - Pasaje a la India
+    - Chocolate
+    correctAns: "\xC1frica m\xEDa"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 03646bf6d1d382a42a9714ddc1ce1d13, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "C\xF3digo: flecha rota "
+    - Marea Roja
+    - Armageddon
+    - La Roca
+    correctAns: La Roca
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 00d7205c269844b45a573aa936461bdd, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "La raz\xF3n de estar contigo"
+    - Mi amigo Enzo
+    - Air Bud
+    - El perro basquetbolista
+    correctAns: Air Bud
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: nanny-mc-phee-magic-cane.mp4
+    options:
+    - "Mi ni\xF1era es m\xE1gica"
+    - "El bast\xF3n m\xE1gico"
+    - El regreso de Mary Poppins
+    - "Nanny McPhee, la nana m\xE1gica"
+    correctAns: "Nanny McPhee, la nana m\xE1gica"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a030f877919aca74287de365f131c939, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Agente Stone
+    - Alerta roja
+    - 'Mujer Maravilla '
+    - Espiando a los vecinos
+    correctAns: Agente Stone
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 033f1435445f6a34aac92296fcd39ba1, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - V de venganza
+    - Doctor Strange
+    - Los vigilantes
+    - Matrix
+    correctAns: V de venganza
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 323a84f1905b72241ad7d328de17bbb9, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Carol
+    - Maridos y esposas
+    - "Jazm\xEDn azul"
+    - "Meadianoche en Par\xEDs"
+    correctAns: "Jazm\xEDn azul"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 93e5f7e41f4be3243be08b5be0ab2e92, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Un lugar donde refugiarse '
+    - Violet y Finch
+    - "El viaje m\xE1s largo"
+    - "Lo mejor de m\xED"
+    correctAns: "El viaje m\xE1s largo"
+  - questionInfo: "\xBFQu\xE9 pel\xEDcula es?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 2012.mp4
+    options:
+    - Geo-Tormenta
+    - "El d\xEDa del fin del mundo "
+    - 2012
+    - Londres bajo fuego
+    correctAns: 2012

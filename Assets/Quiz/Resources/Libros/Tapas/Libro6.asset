@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Libro6
+  m_EditorClassIdentifier: 
+  categoryName: Libro 6
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d3923a4939e3d5948af40e5519fe2531, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El despertar
+    - Despierta
+    - Huye
+    - "Sue\xF1a"
+    correctAns: "Sue\xF1a"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d44f61cb6146f5a41b07bbc880df9676, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Lazos de familia
+    - Una segunda oportunidad
+    - El regalo
+    - "Querido pap\xE1"
+    correctAns: "Querido pap\xE1"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e3bf0371ac5cef240925cfebb4bcc552, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "El c\xF3digo Da Vinci"
+    - Inferno
+    - "La conspiraci\xF3n"
+    - "\xC1ngeles y demonios"
+    correctAns: "\xC1ngeles y demonios"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c4eeb2f452d04da4890c6b694c36a3c8, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El profesor
+    - El estudiante
+    - El psicoanalista
+    - "El club de los psic\xF3patas"
+    correctAns: El psicoanalista
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8d85275446191cb4881125573eedfc5e, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Una imagen en el espejo
+    - "Nuestro \xFAltimo verano"
+    - El mar de la tranquilidad
+    - Callie y Kayden
+    correctAns: El mar de la tranquilidad
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7f0c89b6f42ac504bbc1100d3ae803d2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tempest
+    - Never Never
+    - Black Ice
+    - Lament
+    correctAns: Tempest
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 753fb831ed841134f9f9730706e5a8fd, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "La maldici\xF3n del ganador"
+    - "La selecci\xF3n"
+    - La joya
+    - La corte reluciente
+    correctAns: "La maldici\xF3n del ganador"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 317826535a6e4434599fa27269d454f6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - If I Stay
+    - Hopeless
+    - Before I Fall
+    - Kiss an Angel
+    correctAns: Hopeless
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 851111821f0823e4fa1db01e926fa217, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Hasta que nos quedemos sin estrellas
+    - El arte de ser nosotros
+    - "Una perfecta equivocaci\xF3n "
+    - Las luces de febrero
+    correctAns: El arte de ser nosotros
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: aade59a9902f9fc449baff5f5ce14583, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El beso del infierno
+    - "Eres mi mejor sue\xF1o"
+    - Antes de diciembre
+    - Sigue mi voz
+    correctAns: El beso del infierno

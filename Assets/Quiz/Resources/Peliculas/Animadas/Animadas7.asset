@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Animadas7
+  m_EditorClassIdentifier: 
+  categoryName: Animadas 7
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: b45422697514d744eb68e7c14fadec9b, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La gran aventura de Remy
+    - Ratatouille
+    - El chef Remy
+    - "Remy y Ling\xFCini"
+    correctAns: Ratatouille
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8f4022e7a0e0a904da136e9673492761, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "El pr\xEDncipe rana y la princesa"
+    - La princesa Tiana
+    - La princesa y el sapo
+    - "El pr\xEDncipe rana"
+    correctAns: La princesa y el sapo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: cb8a6cc8d1999a84fac19cc80a445bc6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - ' La dama y el vagabundo II: Las aventuras de Scamp '
+    - Las aventuras de Lady
+    - Reina y Golfo
+    - La dama y el vagabundo
+    correctAns: La dama y el vagabundo
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2c18c7ff5abb8244fa1e73ba8d4c4ca5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El reino de simba
+    - "El Rey Le\xF3n 2: El reino de Simba"
+    - "El rey le\xF3n"
+    - "El rey le\xF3n 3"
+    correctAns: "El rey le\xF3n"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ce49a2ca9fbc4f94ba4cd9244f626ca7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Los aristogatos emprendiendo un viaje
+    - Los aristogatos
+    - 'Duquesa y Thomas '
+    - Duquesa y sus gatitos
+    correctAns: Los aristogatos
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: eeb54e8cd1b784c498440699f86e5571, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Happy Feet: El ping\xFCino"
+    - "El ping\xFCino bailar\xEDn"
+    - "Mumble el bailar\xEDn"
+    - 'Moviendo los pies '
+    correctAns: "Happy Feet: El ping\xFCino"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 1f1d05cf7fa88b94ba428972308a171a, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Django
+    - Pancho
+    - Rango
+    - "El camale\xF3n Rancho"
+    correctAns: Rango
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 417edad663be7b842b2c49b00e0c18ee, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Wallace y Gromit: La batalla de los vegetales '
+    - 'Wallace & Gromit: Una afeitada al ras'
+    - "Wallace & Gromit: Una cuesti\xF3n de pan y muerte"
+    - "Wallace y Gromit: La gran excursi\xF3n"
+    correctAns: 'Wallace y Gromit: La batalla de los vegetales '
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 96ddb830af7114b449556c6394926a36, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El Gran Soldador
+    - Rodney Hojalata
+    - Robots
+    - El reino secreto
+    correctAns: Robots
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 97894491ea2cf9348ae8cd26bc8bbc90, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El pollito
+    - 'Chicken Little: el pollito'
+    - Chicken Little
+    - Chicken Little y Abby
+    correctAns: Chicken Little

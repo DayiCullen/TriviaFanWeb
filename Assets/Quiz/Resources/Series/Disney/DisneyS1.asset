@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: DisneyS1
+  m_EditorClassIdentifier: 
+  categoryName: Serie Disney
+  questions:
+  - questionInfo: "\xBFCu\xE1l frase dice Maddie en Liv y Maddie?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Bam!, \xBF\xA1Qu\xE9!?"
+    - "Bam!, \xBF\xA1Qui\xE9n!?"
+    - "\xA1Ba-Bam! "
+    - "\xBF\xA1Qu\xE9!? Bam- Bom!"
+    correctAns: "Bam!, \xBF\xA1Qu\xE9!?"
+  - questionInfo: 'Nombre de este personaje: '
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0509b62e51aabbb4c8e6b78a379d0893, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Sunny Munroe
+    - Sunny Moon
+    - Sienna Munroe
+    - Sienna Moon
+    correctAns: Sunny Munroe
+  - questionInfo: "\xBFC\xF3mo dijeron que se llamaban Miley y Lilly en el episodio
+      que aparecen los Jonas Brothers?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: cde6fef96f894cf4bbcd3fbe937377b0, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Milo y Otis
+    - Mike y Otto
+    - Ricky y Chad
+    - Jacke y Lucke
+    correctAns: Milo y Otis
+  - questionInfo: "A qu\xE9 serie pertenecen estos personajes?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: cfe20c66fd277ef4d8ce2ec142c92ac8, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Programa de talentos
+    - Amigas cuando sea
+    - El mundo de Riley
+    - Yo no lo hice
+    correctAns: Programa de talentos
+  - questionInfo: "\xBFEn cu\xE1l universidad fue aceptada Teddy de Buena suerte
+      Charlie?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'MIT '
+    - Yale
+    - 'Harvard '
+    - Princeton
+    correctAns: Yale
+  - questionInfo: "\xBFDe d\xF3nde es Jessie?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: f280632cf532f984e9736eace69748c2, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Texas
+    - Colorado
+    - Tennessee
+    - Kansas
+    correctAns: Texas
+  - questionInfo: "\xBFCu\xE1ntos hermanos tiene Alex en Los hechiceros de Waverly
+      Place?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 2
+    - 3
+    - 4
+    - 1
+    correctAns: 2
+  - questionInfo: "\xBFCu\xE1l es la profesi\xF3n de Bennett en Stan, el perro bloguero?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Psic\xF3logo"
+    - Maestro
+    - Enfermero
+    - Entrenador
+    correctAns: "Psic\xF3logo"
+  - questionInfo: "\xBFC\xF3mo se llama la vecina y mejor amiga de Nia en La casa
+      de Raven?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Tess
+    - Clare
+    - Mia
+    - Emma
+    correctAns: Tess
+  - questionInfo: "\xBFC\xF3mo se llaman los mellizos de Yo no lo hice?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: bc8d17f4b74ab7946a27298355cee2f7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Lindy y Logan
+    - Livi y Liam
+    - Lindy y Liam
+    - Livi y Logan
+    correctAns: Lindy y Logan

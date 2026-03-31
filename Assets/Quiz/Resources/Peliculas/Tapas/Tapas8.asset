@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Tapas8
+  m_EditorClassIdentifier: 
+  categoryName: "Pel\xEDcula 8"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 91a0b5a90eec5c1498a2708d28024738, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - En el bosque
+    - Lazos perversos
+    - La aldea
+    - "La cacer\xEDa"
+    correctAns: La aldea
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3c12d3ed32e7ebf42872b5ccde1fd611, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Star Wars
+    - Gremlins
+    - A.I. Inteligencia artificial
+    - E.T., El extraterrestre
+    correctAns: E.T., El extraterrestre
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 6ad7e434c0c257a478ed665bd3a5c83f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Mentiras peligrosas
+    - Juego perverso
+    - Nocturno
+    - Siete deseos
+    correctAns: Juego perverso
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: ef9e1c44852fbaf44b77de1a130c55b8, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Matrimonio por conveniencia
+    - Mujer bonita
+    - La propuesta
+    - "Mientras dorm\xEDas"
+    correctAns: La propuesta
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a823be0de5fab9b41a6bd17e482bfb10, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Los juegos del hambre: Sinsajo - Parte 1'
+    - Los juegos del hambre
+    - 'Los juegos del hambre: en llamas'
+    - 'Los juegos del hambre: Sinsajo - Parte 2'
+    correctAns: 'Los juegos del hambre: en llamas'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 587a0cd02a8965740ad652f2db065906, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Gladiador
+    - Troya
+    - 300
+    - Helena de Troya
+    correctAns: Troya
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c366ee3d6bb8d4548be64d217cb3ef03, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Gigantes de acero
+    - 'Tron: El legado'
+    - RoboCop
+    - Yo, Robot
+    correctAns: Gigantes de acero
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 97a4e4f4887900c4c8a3078a282aa60d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Blade Runner 2049
+    - 'Baby: el aprendiz del crimen'
+    - El robo perfecto
+    - El aprendiz del brujo
+    correctAns: 'Baby: el aprendiz del crimen'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 22767bbd375591b4ea1d2f473e6b4b3f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'El vidente '
+    - El pago
+    - El vengador del futuro
+    - Contracara
+    correctAns: 'El vidente '
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5de4e7655c55f1d4f9dc8f2c83ea1e14, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - El ritual
+    - "La m\xE9dium"
+    - "La caba\xF1a"
+    - Lamb
+    correctAns: "La m\xE9dium"

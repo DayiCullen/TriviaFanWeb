@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Serie4
+  m_EditorClassIdentifier: 
+  categoryName: Serie 4
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 757f58ec1421ead49a592b63d6005c96, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The Outsider
+    - The Sinner
+    - "La maldici\xF3n de Bly Manor"
+    - Ozark
+    correctAns: The Sinner
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2094c8dea48d6534c9e6d6beccfa1e13, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - The originals
+    - Legacies
+    - The Vampire Diaries
+    - True Blood
+    correctAns: The Vampire Diaries
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 01dfc63b72b637e4b9013528e245be33, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "NCIS: Los \xC1ngeles"
+    - CSI
+    - NCIS
+    - 'CSI: Miami'
+    correctAns: CSI
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 710a140b3bd249f4baa360054c249480, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Buscando a Alaska
+    - Young Royals
+    - Love, Victor
+    - Heartstopper
+    correctAns: Love, Victor
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 58fd2d531cdd18c478eb7630d0c73a2c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Echo
+    - Loki
+    - She Hulk
+    - Hulk
+    correctAns: Loki
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: c9a2cd9aa714658458dd06706dc667f5, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Will & Grace
+    - Dos hombres y medio
+    - "C\xF3mo conoc\xED a tu padre"
+    - Mike & Molly
+    correctAns: Dos hombres y medio
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 158eb47db31015241b32284ef3727535, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Riviera
+    - Dead to Me
+    - Bloodline
+    - Revenge
+    correctAns: Riviera
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3467c78a2a434b34882948c0ecafde4f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Los 100
+    - Arrow
+    - Robin Hood
+    - Black Lightning
+    correctAns: Arrow
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4358deb3e15cf63408bcf8af922e7ae7, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Dexter
+    - The Watcher
+    - Dahmer
+    - Mindhunter
+    correctAns: Dahmer
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 5b9b0d6d46613ad4dbd3edbd46c61657, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'One of Us Is Lying '
+    - Las flores perdidas de Alice Hart
+    - Nine Perfect Strangers
+    - I Know What You Did Last Summer
+    correctAns: Nine Perfect Strangers

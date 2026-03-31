@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: DisneyP9
+  m_EditorClassIdentifier: 
+  categoryName: Pelis Disney 9
+  questions:
+  - questionInfo: "\xBFA qu\xE9 universidad quiere ir Mandy de Pacto de Graduaci\xF3n?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Harvard '
+    - Yale
+    - Stanford
+    - Princeton
+    correctAns: 'Harvard '
+  - questionInfo: "\xBFEn qu\xE9 a\xF1o se estren\xF3 el libro de la selva?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 1967
+    - 1970
+    - 1965
+    - 1963
+    correctAns: 1967
+  - questionInfo: "\xBFQu\xE9 deporte practica Izzy en Jump in!?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Basquet
+    - Boxeo
+    - Voley
+    - "F\xFAtbol americano"
+    correctAns: Boxeo
+  - questionInfo: "\xBFA qu\xE9 se dedicaba la mam\xE1 de Casey en Sue\xF1os sobre
+      hielo?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Profesora de literatura
+    - "Profesora de f\xEDsica"
+    - "Profesora de qu\xEDmica"
+    - "Profesora de matem\xE1ticas "
+    correctAns: Profesora de literatura
+  - questionInfo: "\xBFQu\xE9 tipo de beca gana Katelin en Voluntad de hielo? "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Basquet
+    - Hockey
+    - "Patinaje art\xEDstico"
+    - Danza
+    correctAns: Hockey
+  - questionInfo: "\xBFA qu\xE9 se dedica Wade en Elementos?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Es inspector
+    - "Es due\xF1o de un restaurante"
+    - "Es m\xE9dico"
+    - "Es m\xFAsico"
+    correctAns: Es inspector
+  - questionInfo: "Descendientes 3: \xBFQu\xE9 canci\xF3n est\xE1n cantando en este
+      momento?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: descendientes3.mp4
+    options:
+    - Queen of mean
+    - Evil like me
+    - Dig a little deeper
+    - Good to be bad
+    correctAns: Queen of mean
+  - questionInfo: 'Nombre de este personaje:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: e911293c17d40d2438c7ac5274724203, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Kronk
+    - Kuzco
+    - Pacha
+    - Bruck
+    correctAns: Kronk
+  - questionInfo: "Nombre del submario en la pel\xEDcula Atlantis: El imperio perdido"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Ulysses
+    - "Poseid\xF3n"
+    - Zeus
+    - Afrodita
+    correctAns: Ulysses
+  - questionInfo: "Complet\xE1 la canci\xF3n: Principe Al\xED honor a ti Aliababua
+      ____________________ Felices admiraran,con dominguero salaam, su s\xE9quito
+      sensacional,sin mentir"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - De rodillas a sus pies quedense ahi
+    - Es mas fuerte que diez hombres del visir
+    - Tiene un cuerpo que quisiera para mi!
+    - "por eso hoy lo ver\xE1n, tan deslumbrante y gal\xE1n."
+    correctAns: De rodillas a sus pies quedense ahi

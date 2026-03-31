@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Crepusculo3
+  m_EditorClassIdentifier: 
+  categoryName: "Crep\xFAsculo 3"
+  questions:
+  - questionInfo: "\xBFEn cu\xE1l pel\xEDcula Bella y Edward se comprometen?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 3b3a4adeb3df95449b27e20c20189690, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Eclipse
+    - Luna Nueva
+    - Amanecer parte 1
+    - "Crep\xFAsculo"
+    correctAns: Eclipse
+  - questionInfo: 'Nombre de los siguientes personajes:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4789e7597de20ca4fb6cd2f88a9d7594, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Paul - Embry - Sam '
+    - 'Quil - Seth - Jared '
+    - Quil - Jared - Sam
+    - Paul - Jared - Sam
+    correctAns: 'Paul - Embry - Sam '
+  - questionInfo: "\xBFDe cu\xE1l pel\xEDcula es esta escena?"
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: amanecerparte1.mp4
+    options:
+    - Amanecer Parte 1
+    - Amanecer Parte 2
+    - Eclipse
+    - Luna Nueva
+    correctAns: Amanecer Parte 1
+  - questionInfo: 'Nombre del actor:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d2dd514aa437fde4f81e972a96864ed0, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Booboo Stewart
+    - Kiowa Gordon
+    - Chaske Spencer
+    - Alex Meraz
+    correctAns: Booboo Stewart
+  - questionInfo: Nombre del personaje que interpreta este actor
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 321a4a5e8dfaaba4c8eef18b1a71ce89, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Mike
+    - Carlisle
+    - Jasper
+    - Eric
+    correctAns: Mike
+  - questionInfo: "\xBFQui\xE9n es?"
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: cbdf8e798385d0e45b61cd14c13df8af, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Charlie '
+    - 'Michael '
+    - Phil
+    - Ben
+    correctAns: 'Charlie '
+  - questionInfo: "\xBFC\xF3mo se llama la hija de Edward y Bella?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Renesmee '
+    - Renee Esme
+    - Rosalie
+    - Lizzie
+    correctAns: 'Renesmee '
+  - questionInfo: "\xBFCu\xE1l es el poder de Kate?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Electrokinesis ps\xEDquica"
+    - Ilusionismo
+    - Encandilamiento
+    - Controlar los pensamientos
+    correctAns: "Electrokinesis ps\xEDquica"
+  - questionInfo: "Complet\xE1 la frase: Ser\xE1 como si nunca _____________."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - hubiese existido
+    - me hubiese ido
+    - me hubieses conocido
+    - te hubiese amado
+    correctAns: hubiese existido
+  - questionInfo: "\xBFQu\xE9 animal tiene la insignia de los Cullen?"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "Le\xF3n"
+    - Oso
+    - "Hur\xF3n"
+    - Tigre
+    correctAns: "Le\xF3n"

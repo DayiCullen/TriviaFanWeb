@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: HarryPotterI5
+  m_EditorClassIdentifier: 
+  categoryName: Harry Potter  5
+  questions:
+  - questionInfo: Which of these characters is a metamorphmagus?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Nymphadora
+    - 'Remus '
+    - Sirius
+    - Snape
+    correctAns: Nymphadora
+  - questionInfo: What animal has the Hufflepuff crest?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Badger '
+    - Ferret
+    - Skunk
+    - Beaver
+    correctAns: 'Badger '
+  - questionInfo: What school was Viktor Krum from?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Durmstrang
+    - Beauxbatons
+    - Castelobruxo
+    - Koldovstoretz
+    correctAns: Durmstrang
+  - questionInfo: Who does Fred ask to the dance?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Annie
+    - 'Angelina '
+    - Angelica
+    - Angela
+    correctAns: 'Angelina '
+  - questionInfo: What horcrux did Dumbledore and Harry find in the cave?
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 017443c8c212c5e48a8941c56be8ffcc, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Locket
+    - Ring
+    - Diadem
+    - Diary
+    correctAns: Locket
+  - questionInfo: What spell does Hermione use against the Devil's Snare?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Lumos solem
+    - Lumos maxima
+    - Incendio
+    - Lumus incantetum
+    correctAns: Lumos solem
+  - questionInfo: Whose wand is this?
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 7aa7652093cc8b445b1929df5c0a92a3, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Harry Potter
+    - Ron Weasleu
+    - Fred Weasley
+    - Neville Longbottom
+    correctAns: Harry Potter
+  - questionInfo: Who said this phrase? We've all got both light and dark inside
+      us. What matters is the part we choose to act on...that's who we really are
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Sirius
+    - Dumbledore
+    - Lupin
+    - Molly
+    correctAns: Sirius
+  - questionInfo: What movie is this scene from?
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: dobbypelicula2.mp4
+    options:
+    - Harry Potter and the Chamber of Secrets
+    - Harry Potter and the Prisoner of Azkaban
+    - Harry Potter and the Sorcerer's Stone
+    - Harry Potter and the Deathly Hallows - Part 1
+    correctAns: "Harry Potter and the Chamber of Secrets la c\xE1mara secreta"
+  - questionInfo: ' Full name of this character:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 2afdab569365e9248aa934198382272f, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - 'Albus Percival Wulfric Brian Dumbledore '
+    - 'Albus Pertient Wolf Dumbledore '
+    - Albus Ryan Elvis Macnif Dumbledore
+    - Albus Marcus Alfred Esteban Dumbledore
+    correctAns: 'Albus Percival Wulfric Brian Dumbledore '

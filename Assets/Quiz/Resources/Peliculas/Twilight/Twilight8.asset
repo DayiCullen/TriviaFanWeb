@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Twilight8
+  m_EditorClassIdentifier: 
+  categoryName: Twilight 8
+  questions:
+  - questionInfo: What vision did Alice have at this moment?
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d26dcf60afeb1344eadf0e47fcfed52c, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Saw a dance studio
+    - Saw the hall of a hotel
+    - Saw Bella's house
+    - Saw the school
+    correctAns: Saw a dance studio
+  - questionInfo: Which of these is NOT a shared ability of vampires?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Speed
+    - Strength
+    - Telepathy
+    - ' Heightened senses'
+    correctAns: Telepathy
+  - questionInfo: What are vampires called by the Quileute?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - The Pale Ones
+    - The Cold Ones
+    - The Inhumans
+    - The Brilliants
+    correctAns: The Cold Ones
+  - questionInfo: What instrument does Edward play?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Piano
+    - Flute
+    - Guitar
+    - Violin
+    correctAns: Piano
+  - questionInfo: Jacob's pack members in Breaking Dawn
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Leah - Seth - Embry - Quil
+    - Leah - Seth - Paul - Embry
+    - Embry - Jared -  Leah - Collin
+    - Jared - Quil - Leah - Seth
+    correctAns: Leah - Seth - Embry - Quil
+  - questionInfo: ' Name of the following characters:'
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: a2ae4e9d9647d914488b0d7d9c3b1ce4, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Zafrina - Senna
+    - Zafiro - Sienna
+    - Zafrina - Sienna
+    - Zafiro - Senna
+    correctAns: Zafrina - Senna
+  - questionInfo: What movie is this scene from?
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: Lunanueva2.mp4
+    options:
+    - Twilight
+    - Eclipse
+    - New Moon
+    - Breaking Dawn - Part 1
+    correctAns: New Moon
+  - questionInfo: "Complete the sentence: \u2014Your eyes were black the last time
+      I saw you and now, they\u2019re like\u2026golden brown. -Yeah, I know it\u2019s
+      the uh\u2026___________________."
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - "it\u2019s the fluorescents"
+    - I use contact lenses
+    - they change due to the weather
+    - I have to go
+    correctAns: "it\u2019s the fluorescents"
+  - questionInfo: ' What is Bella saying right now?'
+    questionType: 2
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    videoFileName: amanecerfrase.mp4
+    options:
+    - You nicknamed my daughter after the loch-ness monster?!
+    - I'm stronger than you now
+    - Stay away from my family right now
+    - You are not the one to call my daughter nicknames.
+    correctAns: You nicknamed my daughter after the loch-ness monster?!
+  - questionInfo: Where do the Volturi live?
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0fc9a549714baa3459ff685cf0377c0f, type: 3}
+    questionClip: {fileID: 0}
+    videoFileName: 
+    options:
+    - Volterra, Italy
+    - Venice, Italy
+    - Valencia, Spain
+    - Valladolid, Spain
+    correctAns: Volterra, Italy

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577a5c9c77ba91a468127de1c066ed56, type: 3}
+  m_Name: Animadas2
+  m_EditorClassIdentifier: 
+  categoryName: Animadas 2
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 08ab4c1e7eba9034a9af2e0c4dfe659f, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Shrek 4 '
+    - Shrek
+    - Shrek 2
+    - Shrek Tercero
+    correctAns: Shrek
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 8d71c5702de55b64db49d5bd92ae27f6, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'La sirenita 2: Regreso al mar'
+    - La sirenita
+    - La sirenita Ariel
+    - 'La sirenita: los comienzos de Ariel'
+    correctAns: La sirenita
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 90a86d42a3ee2b042954eb2549c24f4d, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Voluntad de acero
+    - Togo
+    - Balto
+    - Colmillo blanco
+    correctAns: Balto
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 4b318487b4cbf6643bc7fdd7140e806c, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La vida secreta de tus mascotas
+    - Un perro fuera de serie
+    - "Sing 2: \xA1Ven y canta de nuevo!"
+    - Las aventuras de Max
+    correctAns: La vida secreta de tus mascotas
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 0956ebbb150132940b4269c1f7791030, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "C\xF3mo entrenar a tu drag\xF3n"
+    - "Mi mascota es un drag\xF3n"
+    - La isla de los dragones
+    - Los vikingos
+    correctAns: "C\xF3mo entrenar a tu drag\xF3n"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 230be1fd913e10f4aa2caa65d8fc3436, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La legendaria Sisu
+    - "Raya y el \xFAltimo drag\xF3n"
+    - La leyenda de Raya
+    - Sisu
+    correctAns: "Raya y el \xFAltimo drag\xF3n"
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: da32b3545815e9f4fa9e5990b8642b14, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - La familia Madrigal
+    - Encanto
+    - Mirabel
+    - Encantada
+    correctAns: Encanto
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: d70a47f4d03d8414e9f9bde932ca7863, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - 'Spider-Man: un nuevo universo'
+    - Spider-Man y el multiverso
+    - 'Spider-Man: descubriendo universos'
+    - 'Spider-Man: un nuevo multiverso'
+    correctAns: 'Spider-Man: un nuevo universo'
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 52d545bb55d58f141a27761a913b0322, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - Red
+    - 4 Town
+    - Panda Rojo
+    - Mei
+    correctAns: Red
+  - questionInfo: 
+    questionType: 1
+    questionImg: {fileID: 21300000, guid: 20f69ea71fd586649b321449f9932d99, type: 3}
+    questionClip: {fileID: 0}
+    questionVideo: {fileID: 0}
+    options:
+    - "Super Mario Bros. La pel\xEDcula"
+    - Bob el constructor
+    - El plomero Bross
+    - Los hermanos Bros
+    correctAns: "Super Mario Bros. La pel\xEDcula"
